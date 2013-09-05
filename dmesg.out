@@ -1,0 +1,1427 @@
+[    0.000000]  gran_size: 128K 	chunk_size: 1G 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 128K 	chunk_size: 2G 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 256K 	chunk_size: 256K 	num_reg: 8  	lose cover RAM: 126723M
+[    0.000000]  gran_size: 256K 	chunk_size: 512K 	num_reg: 8  	lose cover RAM: 126723M
+[    0.000000]  gran_size: 256K 	chunk_size: 1M 	num_reg: 8  	lose cover RAM: 126723M
+[    0.000000]  gran_size: 256K 	chunk_size: 2M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 256K 	chunk_size: 4M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 256K 	chunk_size: 8M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 256K 	chunk_size: 16M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 256K 	chunk_size: 32M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 256K 	chunk_size: 64M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 256K 	chunk_size: 128M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 256K 	chunk_size: 256M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 256K 	chunk_size: 512M 	num_reg: 8  	lose cover RAM: 98048M
+[    0.000000]  gran_size: 256K 	chunk_size: 1G 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 256K 	chunk_size: 2G 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 512K 	chunk_size: 512K 	num_reg: 8  	lose cover RAM: 126723M
+[    0.000000]  gran_size: 512K 	chunk_size: 1M 	num_reg: 8  	lose cover RAM: 126723M
+[    0.000000]  gran_size: 512K 	chunk_size: 2M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 512K 	chunk_size: 4M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 512K 	chunk_size: 8M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 512K 	chunk_size: 16M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 512K 	chunk_size: 32M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 512K 	chunk_size: 64M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 512K 	chunk_size: 128M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 512K 	chunk_size: 256M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 512K 	chunk_size: 512M 	num_reg: 8  	lose cover RAM: 98048M
+[    0.000000]  gran_size: 512K 	chunk_size: 1G 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 512K 	chunk_size: 2G 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 1M 	chunk_size: 1M 	num_reg: 8  	lose cover RAM: 126723M
+[    0.000000]  gran_size: 1M 	chunk_size: 2M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 1M 	chunk_size: 4M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 1M 	chunk_size: 8M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 1M 	chunk_size: 16M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 1M 	chunk_size: 32M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 1M 	chunk_size: 64M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 1M 	chunk_size: 128M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 1M 	chunk_size: 256M 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 1M 	chunk_size: 512M 	num_reg: 8  	lose cover RAM: 98048M
+[    0.000000]  gran_size: 1M 	chunk_size: 1G 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 1M 	chunk_size: 2G 	num_reg: 8  	lose cover RAM: 65280M
+[    0.000000]  gran_size: 2M 	chunk_size: 2M 	num_reg: 8  	lose cover RAM: 126723M
+[    0.000000]  gran_size: 2M 	chunk_size: 4M 	num_reg: 8  	lose cover RAM: 65281M
+[    0.000000]  gran_size: 2M 	chunk_size: 8M 	num_reg: 8  	lose cover RAM: 65281M
+[    0.000000]  gran_size: 2M 	chunk_size: 16M 	num_reg: 8  	lose cover RAM: 65281M
+[    0.000000]  gran_size: 2M 	chunk_size: 32M 	num_reg: 8  	lose cover RAM: 65281M
+[    0.000000]  gran_size: 2M 	chunk_size: 64M 	num_reg: 8  	lose cover RAM: 65281M
+[    0.000000]  gran_size: 2M 	chunk_size: 128M 	num_reg: 8  	lose cover RAM: 65281M
+[    0.000000]  gran_size: 2M 	chunk_size: 256M 	num_reg: 8  	lose cover RAM: 65281M
+[    0.000000]  gran_size: 2M 	chunk_size: 512M 	num_reg: 8  	lose cover RAM: 98049M
+[    0.000000]  gran_size: 2M 	chunk_size: 1G 	num_reg: 8  	lose cover RAM: 65281M
+[    0.000000]  gran_size: 2M 	chunk_size: 2G 	num_reg: 8  	lose cover RAM: 65281M
+[    0.000000]  gran_size: 4M 	chunk_size: 4M 	num_reg: 8  	lose cover RAM: 126723M
+[    0.000000]  gran_size: 4M 	chunk_size: 8M 	num_reg: 8  	lose cover RAM: 65283M
+[    0.000000]  gran_size: 4M 	chunk_size: 16M 	num_reg: 8  	lose cover RAM: 65283M
+[    0.000000]  gran_size: 4M 	chunk_size: 32M 	num_reg: 8  	lose cover RAM: 65283M
+[    0.000000]  gran_size: 4M 	chunk_size: 64M 	num_reg: 8  	lose cover RAM: 65283M
+[    0.000000]  gran_size: 4M 	chunk_size: 128M 	num_reg: 8  	lose cover RAM: 65283M
+[    0.000000]  gran_size: 4M 	chunk_size: 256M 	num_reg: 8  	lose cover RAM: 65283M
+[    0.000000]  gran_size: 4M 	chunk_size: 512M 	num_reg: 8  	lose cover RAM: 98051M
+[    0.000000]  gran_size: 4M 	chunk_size: 1G 	num_reg: 8  	lose cover RAM: 65283M
+[    0.000000]  gran_size: 4M 	chunk_size: 2G 	num_reg: 8  	lose cover RAM: 65283M
+[    0.000000]  gran_size: 8M 	chunk_size: 8M 	num_reg: 8  	lose cover RAM: 122631M
+[    0.000000]  gran_size: 8M 	chunk_size: 16M 	num_reg: 8  	lose cover RAM: 65287M
+[    0.000000]  gran_size: 8M 	chunk_size: 32M 	num_reg: 8  	lose cover RAM: 65287M
+[    0.000000]  gran_size: 8M 	chunk_size: 64M 	num_reg: 8  	lose cover RAM: 65287M
+[    0.000000]  gran_size: 8M 	chunk_size: 128M 	num_reg: 8  	lose cover RAM: 65287M
+[    0.000000]  gran_size: 8M 	chunk_size: 256M 	num_reg: 8  	lose cover RAM: 65287M
+[    0.000000]  gran_size: 8M 	chunk_size: 512M 	num_reg: 8  	lose cover RAM: 98055M
+[    0.000000]  gran_size: 8M 	chunk_size: 1G 	num_reg: 8  	lose cover RAM: 65287M
+[    0.000000]  gran_size: 8M 	chunk_size: 2G 	num_reg: 8  	lose cover RAM: 65287M
+[    0.000000]  gran_size: 16M 	chunk_size: 16M 	num_reg: 8  	lose cover RAM: 114447M
+[    0.000000]  gran_size: 16M 	chunk_size: 32M 	num_reg: 8  	lose cover RAM: 65295M
+[    0.000000]  gran_size: 16M 	chunk_size: 64M 	num_reg: 8  	lose cover RAM: 65295M
+[    0.000000]  gran_size: 16M 	chunk_size: 128M 	num_reg: 8  	lose cover RAM: 65295M
+[    0.000000]  gran_size: 16M 	chunk_size: 256M 	num_reg: 8  	lose cover RAM: 65295M
+[    0.000000]  gran_size: 16M 	chunk_size: 512M 	num_reg: 8  	lose cover RAM: 98063M
+[    0.000000]  gran_size: 16M 	chunk_size: 1G 	num_reg: 8  	lose cover RAM: 65295M
+[    0.000000]  gran_size: 16M 	chunk_size: 2G 	num_reg: 8  	lose cover RAM: 65295M
+[    0.000000]  gran_size: 32M 	chunk_size: 32M 	num_reg: 8  	lose cover RAM: 98079M
+[    0.000000]  gran_size: 32M 	chunk_size: 64M 	num_reg: 8  	lose cover RAM: 65311M
+[    0.000000]  gran_size: 32M 	chunk_size: 128M 	num_reg: 8  	lose cover RAM: 65311M
+[    0.000000]  gran_size: 32M 	chunk_size: 256M 	num_reg: 8  	lose cover RAM: 65311M
+[    0.000000]  gran_size: 32M 	chunk_size: 512M 	num_reg: 8  	lose cover RAM: 98079M
+[    0.000000]  gran_size: 32M 	chunk_size: 1G 	num_reg: 8  	lose cover RAM: 65311M
+[    0.000000]  gran_size: 32M 	chunk_size: 2G 	num_reg: 8  	lose cover RAM: 65311M
+[    0.000000]  gran_size: 64M 	chunk_size: 64M 	num_reg: 8  	lose cover RAM: 65343M
+[    0.000000]  gran_size: 64M 	chunk_size: 128M 	num_reg: 8  	lose cover RAM: 65343M
+[    0.000000]  gran_size: 64M 	chunk_size: 256M 	num_reg: 8  	lose cover RAM: 65343M
+[    0.000000]  gran_size: 64M 	chunk_size: 512M 	num_reg: 8  	lose cover RAM: 98111M
+[    0.000000]  gran_size: 64M 	chunk_size: 1G 	num_reg: 8  	lose cover RAM: 65343M
+[    0.000000]  gran_size: 64M 	chunk_size: 2G 	num_reg: 8  	lose cover RAM: 65343M
+[    0.000000]  gran_size: 128M 	chunk_size: 128M 	num_reg: 8  	lose cover RAM: 32639M
+[    0.000000]  gran_size: 128M 	chunk_size: 256M 	num_reg: 8  	lose cover RAM: 65407M
+[    0.000000]  gran_size: 128M 	chunk_size: 512M 	num_reg: 8  	lose cover RAM: 98175M
+[    0.000000]  gran_size: 128M 	chunk_size: 1G 	num_reg: 8  	lose cover RAM: 65407M
+[    0.000000]  gran_size: 128M 	chunk_size: 2G 	num_reg: 8  	lose cover RAM: 65407M
+[    0.000000]  gran_size: 256M 	chunk_size: 256M 	num_reg: 8  	lose cover RAM: 16383M
+[    0.000000]  gran_size: 256M 	chunk_size: 512M 	num_reg: 8  	lose cover RAM: 255M
+[    0.000000]  gran_size: 256M 	chunk_size: 1G 	num_reg: 8  	lose cover RAM: 255M
+[    0.000000]  gran_size: 256M 	chunk_size: 2G 	num_reg: 8  	lose cover RAM: 255M
+[    0.000000]  gran_size: 512M 	chunk_size: 512M 	num_reg: 8  	lose cover RAM: 16383M
+[    0.000000]  gran_size: 512M 	chunk_size: 1G 	num_reg: 8  	lose cover RAM: 511M
+[    0.000000]  gran_size: 512M 	chunk_size: 2G 	num_reg: 8  	lose cover RAM: 511M
+[    0.000000]  gran_size: 1G 	chunk_size: 1G 	num_reg: 8  	lose cover RAM: 16383M
+[    0.000000]  gran_size: 1G 	chunk_size: 2G 	num_reg: 8  	lose cover RAM: 1023M
+[    0.000000]  gran_size: 2G 	chunk_size: 2G 	num_reg: 8  	lose cover RAM: 9215M
+[    0.000000] mtrr_cleanup: can not find optimal value
+[    0.000000] please specify mtrr_gran_size/mtrr_chunk_size
+[    0.000000] e820: update [mem 0xcff00000-0xffffffff] usable ==> reserved
+[    0.000000] e820: last_pfn = 0xcfe0a max_arch_pfn = 0x400000000
+[    0.000000] found SMP MP-table at [mem 0x000fe710-0x000fe71f] mapped at [ffff8800000fe710]
+[    0.000000] initial memory mapped: [mem 0x00000000-0x1fffffff]
+[    0.000000] Base memory trampoline at [ffff880000098000] 98000 size 24576
+[    0.000000] init_memory_mapping: [mem 0x00000000-0xcfe09fff]
+[    0.000000]  [mem 0x00000000-0xcfdfffff] page 2M
+[    0.000000]  [mem 0xcfe00000-0xcfe09fff] page 4k
+[    0.000000] kernel direct mapping tables up to 0xcfe09fff @ [mem 0x1fffa000-0x1fffffff]
+[    0.000000] init_memory_mapping: [mem 0x100000000-0x12fffffff]
+[    0.000000]  [mem 0x100000000-0x12fffffff] page 2M
+[    0.000000] kernel direct mapping tables up to 0x12fffffff @ [mem 0xcfe08000-0xcfe09fff]
+[    0.000000] RAMDISK: [mem 0x3615e000-0x370a6fff]
+[    0.000000] ACPI: RSDP 00000000000febf0 00024 (v02 DELL  )
+[    0.000000] ACPI: XSDT 00000000000fcd54 00074 (v01 DELL    B9K     00000015 ASL  00000061)
+[    0.000000] ACPI: FACP 00000000000fce84 000F4 (v03 DELL    B9K     00000015 ASL  00000061)
+[    0.000000] ACPI: DSDT 00000000fff62d72 03A12 (v01   DELL    dt_ex 00001000 INTL 20050624)
+[    0.000000] ACPI: FACS 00000000cfe0ac00 00040
+[    0.000000] ACPI: SSDT 00000000fff668a5 000AC (v01   DELL    st_ex 00001000 INTL 20050624)
+[    0.000000] ACPI: APIC 00000000000fcf78 000AA (v01 DELL    B9K     00000015 ASL  00000061)
+[    0.000000] ACPI: BOOT 00000000000fd022 00028 (v01 DELL    B9K     00000015 ASL  00000061)
+[    0.000000] ACPI: ASF! 00000000000fd04a 00096 (v32 DELL    B9K     00000015 ASL  00000061)
+[    0.000000] ACPI: MCFG 00000000000fd0e0 0003E (v01 DELL    B9K     00000015 ASL  00000061)
+[    0.000000] ACPI: HPET 00000000000fd11e 00038 (v01 DELL    B9K     00000015 ASL  00000061)
+[    0.000000] ACPI: TCPA 00000000000fd37a 00032 (v01 DELL    B9K     00000015 ASL  00000061)
+[    0.000000] ACPI: ____ 00000000000fd3ac 00030 (v01 DELL    B9K     00000015 ASL  00000061)
+[    0.000000] ACPI: SLIC 00000000000fd156 00176 (v01 DELL    B9K     00000015 ASL  00000061)
+[    0.000000] ACPI: Local APIC address 0xfee00000
+[    0.000000] No NUMA configuration found
+[    0.000000] Faking a node at [mem 0x0000000000000000-0x000000012fffffff]
+[    0.000000] Initmem setup node 0 [mem 0x00000000-0x12fffffff]
+[    0.000000]   NODE_DATA [mem 0x12fffb000-0x12fffffff]
+[    0.000000]  [ffffea0000000000-ffffea0004bfffff] PMD -> [ffff88012b600000-ffff88012f5fffff] on node 0
+[    0.000000] Zone ranges:
+[    0.000000]   DMA      [mem 0x00010000-0x00ffffff]
+[    0.000000]   DMA32    [mem 0x01000000-0xffffffff]
+[    0.000000]   Normal   [mem 0x100000000-0x12fffffff]
+[    0.000000] Movable zone start for each node
+[    0.000000] Early memory node ranges
+[    0.000000]   node   0: [mem 0x00010000-0x0009dfff]
+[    0.000000]   node   0: [mem 0x00100000-0xcfe09fff]
+[    0.000000]   node   0: [mem 0x100000000-0x12fffffff]
+[    0.000000] On node 0 totalpages: 1047960
+[    0.000000]   DMA zone: 64 pages used for memmap
+[    0.000000]   DMA zone: 6 pages reserved
+[    0.000000]   DMA zone: 3912 pages, LIFO batch:0
+[    0.000000]   DMA32 zone: 13241 pages used for memmap
+[    0.000000]   DMA32 zone: 834129 pages, LIFO batch:31
+[    0.000000]   Normal zone: 3072 pages used for memmap
+[    0.000000]   Normal zone: 193536 pages, LIFO batch:31
+[    0.000000] ACPI: PM-Timer IO Port: 0x808
+[    0.000000] ACPI: Local APIC address 0xfee00000
+[    0.000000] ACPI: LAPIC (acpi_id[0x01] lapic_id[0x00] enabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x02] lapic_id[0x01] enabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x03] lapic_id[0x02] enabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x04] lapic_id[0x03] enabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x05] lapic_id[0x00] disabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x06] lapic_id[0x01] disabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x07] lapic_id[0x02] disabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x08] lapic_id[0x03] disabled)
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0xff] high edge lint[0x1])
+[    0.000000] ACPI: IOAPIC (id[0x08] address[0xfec00000] gsi_base[0])
+[    0.000000] IOAPIC[0]: apic_id 8, version 32, address 0xfec00000, GSI 0-23
+[    0.000000] ACPI: IOAPIC (id[0x09] address[0xfec88000] gsi_base[24])
+[    0.000000] IOAPIC[1]: apic_id 9, version 32, address 0xfec88000, GSI 24-47
+[    0.000000] ACPI: IOAPIC (id[0x0a] address[0xfec89000] gsi_base[48])
+[    0.000000] IOAPIC[2]: apic_id 10, version 32, address 0xfec89000, GSI 48-71
+[    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+[    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+[    0.000000] ACPI: IRQ0 used by override.
+[    0.000000] ACPI: IRQ2 used by override.
+[    0.000000] ACPI: IRQ9 used by override.
+[    0.000000] Using ACPI (MADT) for SMP configuration information
+[    0.000000] ACPI: HPET id: 0x8086a201 base: 0xfed00000
+[    0.000000] smpboot: Allowing 8 CPUs, 4 hotplug CPUs
+[    0.000000] nr_irqs_gsi: 88
+[    0.000000] PM: Registered nosave memory: 000000000009e000 - 00000000000f0000
+[    0.000000] PM: Registered nosave memory: 00000000000f0000 - 0000000000100000
+[    0.000000] PM: Registered nosave memory: 00000000cfe0a000 - 00000000cfe0b000
+[    0.000000] PM: Registered nosave memory: 00000000cfe0b000 - 00000000cfe5c000
+[    0.000000] PM: Registered nosave memory: 00000000cfe5c000 - 00000000cfe5d000
+[    0.000000] PM: Registered nosave memory: 00000000cfe5d000 - 00000000cfe5e000
+[    0.000000] PM: Registered nosave memory: 00000000cfe5e000 - 00000000cfe5f000
+[    0.000000] PM: Registered nosave memory: 00000000cfe5f000 - 00000000d0000000
+[    0.000000] PM: Registered nosave memory: 00000000d0000000 - 00000000e0000000
+[    0.000000] PM: Registered nosave memory: 00000000e0000000 - 00000000f0000000
+[    0.000000] PM: Registered nosave memory: 00000000f0000000 - 00000000fe000000
+[    0.000000] PM: Registered nosave memory: 00000000fe000000 - 00000000ff000000
+[    0.000000] PM: Registered nosave memory: 00000000ff000000 - 00000000ffb00000
+[    0.000000] PM: Registered nosave memory: 00000000ffb00000 - 0000000100000000
+[    0.000000] e820: [mem 0xd0000000-0xdfffffff] available for PCI devices
+[    0.000000] Booting paravirtualized kernel on bare hardware
+[    0.000000] setup_percpu: NR_CPUS:256 nr_cpumask_bits:256 nr_cpu_ids:8 nr_node_ids:1
+[    0.000000] PERCPU: Embedded 28 pages/cpu @ffff88012fc00000 s85056 r8192 d21440 u262144
+[    0.000000] pcpu-alloc: s85056 r8192 d21440 u262144 alloc=1*2097152
+[    0.000000] pcpu-alloc: [0] 0 1 2 3 4 5 6 7 
+[    0.000000] Built 1 zonelists in Node order, mobility grouping on.  Total pages: 1031577
+[    0.000000] Policy zone: Normal
+[    0.000000] Kernel command line: BOOT_IMAGE=/boot/vmlinuz-3.8.0-29-generic root=UUID=b0359223-603d-482e-b129-8ea61f44efc7 ro quiet splash vt.handoff=7
+[    0.000000] PID hash table entries: 4096 (order: 3, 32768 bytes)
+[    0.000000] __ex_table already sorted, skipping sort
+[    0.000000] Checking aperture...
+[    0.000000] No AGP bridge found
+[    0.000000] Calgary: detecting Calgary via BIOS EBDA area
+[    0.000000] Calgary: Unable to locate Rio Grande table in EBDA - bailing!
+[    0.000000] Memory: 4027856k/4980736k available (7170k kernel code, 788896k absent, 163984k reserved, 6073k data, 1012k init)
+[    0.000000] SLUB: Genslabs=15, HWalign=64, Order=0-3, MinObjects=0, CPUs=8, Nodes=1
+[    0.000000] Hierarchical RCU implementation.
+[    0.000000] 	RCU dyntick-idle grace-period acceleration is enabled.
+[    0.000000] 	RCU restricting CPUs from NR_CPUS=256 to nr_cpu_ids=8.
+[    0.000000] NR_IRQS:16640 nr_irqs:1560 16
+[    0.000000] Console: colour dummy device 80x25
+[    0.000000] console [tty0] enabled
+[    0.000000] allocated 16777216 bytes of page_cgroup
+[    0.000000] please try 'cgroup_disable=memory' option if you don't want memory cgroups
+[    0.000000] hpet clockevent registered
+[    0.000000] tsc: Fast TSC calibration using PIT
+[    0.000000] tsc: Detected 2327.325 MHz processor
+[    0.004004] Calibrating delay loop (skipped), value calculated using timer frequency.. 4654.65 BogoMIPS (lpj=9309300)
+[    0.004008] pid_max: default: 32768 minimum: 301
+[    0.004037] Security Framework initialized
+[    0.004055] AppArmor: AppArmor initialized
+[    0.004056] Yama: becoming mindful.
+[    0.004420] Dentry cache hash table entries: 524288 (order: 10, 4194304 bytes)
+[    0.006630] Inode-cache hash table entries: 262144 (order: 9, 2097152 bytes)
+[    0.008525] Mount-cache hash table entries: 256
+[    0.008765] Initializing cgroup subsys cpuacct
+[    0.008768] Initializing cgroup subsys memory
+[    0.008780] Initializing cgroup subsys devices
+[    0.008782] Initializing cgroup subsys freezer
+[    0.008784] Initializing cgroup subsys blkio
+[    0.008785] Initializing cgroup subsys perf_event
+[    0.008788] Initializing cgroup subsys hugetlb
+[    0.008821] CPU: Physical Processor ID: 0
+[    0.008823] CPU: Processor Core ID: 0
+[    0.008825] mce: CPU supports 6 MCE banks
+[    0.008833] CPU0: Thermal monitoring enabled (TM2)
+[    0.008837] process: using mwait in idle threads
+[    0.008842] Last level iTLB entries: 4KB 128, 2MB 4, 4MB 4
+[    0.008842] Last level dTLB entries: 4KB 256, 2MB 0, 4MB 32
+[    0.008842] tlb_flushall_shift: -1
+[    0.008963] Freeing SMP alternatives: 24k freed
+[    0.011873] ACPI: Core revision 20121018
+[    0.052481] ftrace: allocating 29358 entries in 115 pages
+[    0.060632] ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+[    0.100729] smpboot: CPU0: Intel(R) Xeon(R) CPU           E5410  @ 2.33GHz (fam: 06, model: 17, stepping: 06)
+[    0.104000] Performance Events: PEBS fmt0+, 4-deep LBR, Core2 events, Intel PMU driver.
+[    0.104000] ... version:                2
+[    0.104000] ... bit width:              40
+[    0.104000] ... generic registers:      2
+[    0.104000] ... value mask:             000000ffffffffff
+[    0.104000] ... max period:             000000007fffffff
+[    0.104000] ... fixed-purpose events:   3
+[    0.104000] ... event mask:             0000000700000003
+[    0.114492] NMI watchdog: enabled on all CPUs, permanently consumes one hw-PMU counter.
+[    0.104000] smpboot: Booting Node   0, Processors  #1 #2 #3
+[    0.140009] Brought up 4 CPUs
+[    0.140012] smpboot: Total of 4 processors activated (18618.60 BogoMIPS)
+[    0.144178] devtmpfs: initialized
+[    0.149628] EVM: security.selinux
+[    0.149630] EVM: security.SMACK64
+[    0.149632] EVM: security.capability
+[    0.149647] PM: Registering ACPI NVS region [mem 0xcfe0ac00-0xcfe5cbff] (335872 bytes)
+[    0.149647] reboot: BIOS series board detected. Selecting Dell Precision T5400-method for reboots.
+[    0.149647] regulator-dummy: no parameters
+[    0.149647] NET: Registered protocol family 16
+[    0.149647] ACPI FADT declares the system doesn't support PCIe ASPM, so disable it
+[    0.149647] ACPI: bus type pci registered
+[    0.149647] PCI: MMCONFIG for domain 0000 [bus 00-ff] at [mem 0xe0000000-0xefffffff] (base 0xe0000000)
+[    0.149647] PCI: MMCONFIG at [mem 0xe0000000-0xefffffff] reserved in E820
+[    0.171915] PCI: Using configuration type 1 for base access
+[    0.172938] bio: create slab <bio-0> at 0
+[    0.172938] ACPI: Added _OSI(Module Device)
+[    0.172938] ACPI: Added _OSI(Processor Device)
+[    0.172938] ACPI: Added _OSI(3.0 _SCP Extensions)
+[    0.172938] ACPI: Added _OSI(Processor Aggregator Device)
+[    0.172938] ACPI: EC: Look up EC in DSDT
+[    0.188194] [Firmware Bug]: ACPI: BIOS _OSI(Linux) query ignored
+[    0.200936] ACPI BIOS Bug: Warning: Incorrect checksum in table [TCPA] - 0x00, should be 0x87 (20121018/tbutils-324)
+[    0.201788] ACPI: Interpreter enabled
+[    0.201792] ACPI: (supports S0 S1 S3 S4 S5)
+[    0.201809] ACPI: Using IOAPIC for interrupt routing
+[    0.292466] ACPI: No dock devices found.
+[    0.292471] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+[    0.296618] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+[    0.296618] ACPI: PCI Interrupt Routing Table [\_SB_.PCI0._PRT]
+[    0.306967] PCI host bridge to bus 0000:00
+[    0.306967] pci_bus 0000:00: root bus resource [bus 00-ff]
+[    0.306967] pci_bus 0000:00: root bus resource [io  0x0000-0x0cf7]
+[    0.306967] pci_bus 0000:00: root bus resource [io  0x0d00-0xffff]
+[    0.306967] pci_bus 0000:00: root bus resource [mem 0x000a0000-0x000bffff]
+[    0.306967] pci_bus 0000:00: root bus resource [mem 0x000c0000-0x000effff]
+[    0.306967] pci_bus 0000:00: root bus resource [mem 0x000f0000-0x000fffff]
+[    0.306967] pci_bus 0000:00: root bus resource [mem 0xf0000000-0xfe000000]
+[    0.306967] pci_bus 0000:00: root bus resource [mem 0xcff00000-0xdfffffff]
+[    0.306967] pci_bus 0000:00: root bus resource [mem 0xff980800-0xff980bff]
+[    0.306967] pci_bus 0000:00: root bus resource [mem 0xff97c000-0xff97ffff]
+[    0.306967] pci_bus 0000:00: root bus resource [mem 0xfed20000-0xfed9ffff]
+[    0.306967] pci 0000:00:00.0: [8086:4001] type 00 class 0x060000
+[    0.306967] pci 0000:00:00.0: PME# supported from D0 D3hot D3cold
+[    0.306967] pci 0000:00:01.0: [8086:4021] type 01 class 0x060400
+[    0.306967] pci 0000:00:01.0: PME# supported from D0 D3hot D3cold
+[    0.306967] pci 0000:00:05.0: [8086:4025] type 01 class 0x060400
+[    0.306967] pci 0000:00:05.0: PME# supported from D0 D3hot D3cold
+[    0.306967] pci 0000:00:09.0: [8086:4029] type 01 class 0x060400
+[    0.306967] pci 0000:00:09.0: PME# supported from D0 D3hot D3cold
+[    0.306967] pci 0000:00:10.0: [8086:4030] type 00 class 0x060000
+[    0.306967] pci 0000:00:10.1: [8086:4030] type 00 class 0x060000
+[    0.306967] pci 0000:00:10.2: [8086:4030] type 00 class 0x060000
+[    0.306967] pci 0000:00:10.3: [8086:4030] type 00 class 0x060000
+[    0.306967] pci 0000:00:10.4: [8086:4030] type 00 class 0x060000
+[    0.306967] pci 0000:00:11.0: [8086:4031] type 00 class 0x060000
+[    0.306967] pci 0000:00:15.0: [8086:4035] type 00 class 0x060000
+[    0.306967] pci 0000:00:15.1: [8086:4035] type 00 class 0x060000
+[    0.306967] pci 0000:00:16.0: [8086:4036] type 00 class 0x060000
+[    0.306967] pci 0000:00:16.1: [8086:4036] type 00 class 0x060000
+[    0.306967] pci 0000:00:1c.0: [8086:2690] type 01 class 0x060400
+[    0.306967] pci 0000:00:1c.0: PME# supported from D0 D3hot D3cold
+[    0.306967] pci 0000:00:1d.0: [8086:2688] type 00 class 0x0c0300
+[    0.306967] pci 0000:00:1d.0: reg 20: [io  0xff80-0xff9f]
+[    0.306967] pci 0000:00:1d.1: [8086:2689] type 00 class 0x0c0300
+[    0.306967] pci 0000:00:1d.1: reg 20: [io  0xff60-0xff7f]
+[    0.306967] pci 0000:00:1d.2: [8086:268a] type 00 class 0x0c0300
+[    0.306967] pci 0000:00:1d.2: reg 20: [io  0xff40-0xff5f]
+[    0.306967] pci 0000:00:1d.3: [8086:268b] type 00 class 0x0c0300
+[    0.306967] pci 0000:00:1d.3: reg 20: [io  0xff20-0xff3f]
+[    0.306967] pci 0000:00:1d.7: [8086:268c] type 00 class 0x0c0320
+[    0.306967] pci 0000:00:1d.7: reg 10: [mem 0xff980800-0xff980bff]
+[    0.306967] pci 0000:00:1d.7: PME# supported from D0 D3hot D3cold
+[    0.306967] pci 0000:00:1e.0: [8086:244e] type 01 class 0x060401
+[    0.306967] pci 0000:00:1f.0: [8086:2670] type 00 class 0x060100
+[    0.306967] pci 0000:00:1f.1: [8086:269e] type 00 class 0x01018a
+[    0.306967] pci 0000:00:1f.1: reg 10: [io  0x01f0-0x01f7]
+[    0.306967] pci 0000:00:1f.1: reg 14: [io  0x03f4-0x03f7]
+[    0.306967] pci 0000:00:1f.1: reg 18: [io  0x0170-0x0177]
+[    0.306967] pci 0000:00:1f.1: reg 1c: [io  0x0374-0x0377]
+[    0.306967] pci 0000:00:1f.1: reg 20: [io  0xffa0-0xffaf]
+[    0.306967] pci 0000:00:1f.2: [8086:2681] type 00 class 0x010601
+[    0.306967] pci 0000:00:1f.2: reg 10: [io  0xfe00-0xfe07]
+[    0.306967] pci 0000:00:1f.2: reg 14: [io  0xfe10-0xfe13]
+[    0.306967] pci 0000:00:1f.2: reg 18: [io  0xfe20-0xfe27]
+[    0.306967] pci 0000:00:1f.2: reg 1c: [io  0xfe30-0xfe33]
+[    0.306967] pci 0000:00:1f.2: reg 20: [io  0xfec0-0xfedf]
+[    0.306967] pci 0000:00:1f.2: reg 24: [mem 0xff970000-0xff9703ff]
+[    0.306967] pci 0000:00:1f.2: PME# supported from D3hot
+[    0.306967] pci 0000:00:1f.3: [8086:269b] type 00 class 0x0c0500
+[    0.306967] pci 0000:00:1f.3: reg 20: [io  0xece0-0xecff]
+[    0.306967] pci 0000:01:00.0: [14e4:1659] type 00 class 0x020000
+[    0.306967] pci 0000:01:00.0: reg 10: [mem 0xfbef0000-0xfbefffff 64bit]
+[    0.306967] pci 0000:01:00.0: PME# supported from D3hot D3cold
+[    0.316014] pci 0000:00:01.0: PCI bridge to [bus 01]
+[    0.316020] pci 0000:00:01.0:   bridge window [mem 0xfbe00000-0xfbefffff]
+[    0.316072] pci 0000:02:00.0: [10de:040e] type 00 class 0x030000
+[    0.316083] pci 0000:02:00.0: reg 10: [mem 0xfa000000-0xfaffffff]
+[    0.316094] pci 0000:02:00.0: reg 14: [mem 0xd0000000-0xdfffffff 64bit pref]
+[    0.316105] pci 0000:02:00.0: reg 1c: [mem 0xf8000000-0xf9ffffff 64bit]
+[    0.316113] pci 0000:02:00.0: reg 24: [io  0xdc80-0xdcff]
+[    0.316121] pci 0000:02:00.0: reg 30: [mem 0xfbd00000-0xfbd1ffff pref]
+[    0.324011] pci 0000:00:05.0: PCI bridge to [bus 02]
+[    0.324015] pci 0000:00:05.0:   bridge window [io  0xd000-0xdfff]
+[    0.324019] pci 0000:00:05.0:   bridge window [mem 0xf8000000-0xfbdfffff]
+[    0.324024] pci 0000:00:05.0:   bridge window [mem 0xd0000000-0xdfffffff 64bit pref]
+[    0.324377] pci 0000:03:00.0: [8086:3500] type 01 class 0x060400
+[    0.327401] pci 0000:03:00.0: PME# supported from D0 D3hot D3cold
+[    0.328275] pci 0000:03:00.3: [8086:350c] type 01 class 0x060400
+[    0.330153] pci 0000:03:00.3: PME# supported from D0 D3hot D3cold
+[    0.340007] pci 0000:00:09.0: PCI bridge to [bus 03-07]
+[    0.340011] pci 0000:00:09.0:   bridge window [io  0xc000-0xcfff]
+[    0.340015] pci 0000:00:09.0:   bridge window [mem 0xf7d00000-0xf7ffffff]
+[    0.341716] pci 0000:04:00.0: [8086:3510] type 01 class 0x060400
+[    0.345054] pci 0000:04:00.0: PME# supported from D0 D3hot D3cold
+[    0.346016] pci 0000:04:01.0: [8086:3514] type 01 class 0x060400
+[    0.349420] pci 0000:04:01.0: PME# supported from D0 D3hot D3cold
+[    0.351344] pci 0000:03:00.0: PCI bridge to [bus 04-06]
+[    0.351436] pci 0000:03:00.0:   bridge window [io  0xc000-0xcfff]
+[    0.351528] pci 0000:03:00.0:   bridge window [mem 0xf7d00000-0xf7efffff]
+[    0.353420] pci 0000:04:00.0: PCI bridge to [bus 05]
+[    0.355849] pci 0000:06:00.0: [1000:0060] type 00 class 0x010400
+[    0.356504] pci 0000:06:00.0: reg 10: [mem 0xf7d80000-0xf7dbffff 64bit]
+[    0.356825] pci 0000:06:00.0: reg 18: [io  0xcc00-0xccff]
+[    0.357329] pci 0000:06:00.0: reg 1c: [mem 0xf7dc0000-0xf7dfffff 64bit]
+[    0.357970] pci 0000:06:00.0: reg 30: [mem 0xf7e00000-0xf7e07fff pref]
+[    0.359940] pci 0000:06:00.0: supports D1
+[    0.360825] pci 0000:04:01.0: PCI bridge to [bus 06]
+[    0.360916] pci 0000:04:01.0:   bridge window [io  0xc000-0xcfff]
+[    0.361007] pci 0000:04:01.0:   bridge window [mem 0xf7d00000-0xf7efffff]
+[    0.364046] pci 0000:03:00.3: PCI bridge to [bus 07]
+[    0.364613] pci 0000:08:00.0: [14e4:167a] type 00 class 0x020000
+[    0.364636] pci 0000:08:00.0: reg 10: [mem 0xf7cf0000-0xf7cfffff 64bit]
+[    0.364768] pci 0000:08:00.0: PME# supported from D3hot D3cold
+[    0.372014] pci 0000:00:1c.0: PCI bridge to [bus 08]
+[    0.372021] pci 0000:00:1c.0:   bridge window [mem 0xf7c00000-0xf7cfffff]
+[    0.372068] pci 0000:09:02.0: [1102:0005] type 00 class 0x040100
+[    0.372087] pci 0000:09:02.0: reg 10: [io  0xbce0-0xbcff]
+[    0.372102] pci 0000:09:02.0: reg 14: [mem 0xf7a00000-0xf7bfffff 64bit]
+[    0.372116] pci 0000:09:02.0: reg 1c: [mem 0xf0000000-0xf3ffffff 64bit]
+[    0.372170] pci 0000:09:02.0: supports D1 D2
+[    0.372215] pci 0000:00:1e.0: PCI bridge to [bus 09] (subtractive decode)
+[    0.372219] pci 0000:00:1e.0:   bridge window [io  0xb000-0xbfff]
+[    0.372223] pci 0000:00:1e.0:   bridge window [mem 0xf0000000-0xf7bfffff]
+[    0.372229] pci 0000:00:1e.0:   bridge window [io  0x0000-0x0cf7] (subtractive decode)
+[    0.372232] pci 0000:00:1e.0:   bridge window [io  0x0d00-0xffff] (subtractive decode)
+[    0.372234] pci 0000:00:1e.0:   bridge window [mem 0x000a0000-0x000bffff] (subtractive decode)
+[    0.372236] pci 0000:00:1e.0:   bridge window [mem 0x000c0000-0x000effff] (subtractive decode)
+[    0.372239] pci 0000:00:1e.0:   bridge window [mem 0x000f0000-0x000fffff] (subtractive decode)
+[    0.372241] pci 0000:00:1e.0:   bridge window [mem 0xf0000000-0xfe000000] (subtractive decode)
+[    0.372243] pci 0000:00:1e.0:   bridge window [mem 0xcff00000-0xdfffffff] (subtractive decode)
+[    0.372245] pci 0000:00:1e.0:   bridge window [mem 0xff980800-0xff980bff] (subtractive decode)
+[    0.372248] pci 0000:00:1e.0:   bridge window [mem 0xff97c000-0xff97ffff] (subtractive decode)
+[    0.372250] pci 0000:00:1e.0:   bridge window [mem 0xfed20000-0xfed9ffff] (subtractive decode)
+[    0.372301] ACPI: PCI Interrupt Routing Table [\_SB_.PCI0.PCI1._PRT]
+[    0.372442] ACPI: PCI Interrupt Routing Table [\_SB_.PCI0.PCI2._PRT]
+[    0.372581] ACPI: PCI Interrupt Routing Table [\_SB_.PCI0.PCI3._PRT]
+[    0.372738] ACPI: PCI Interrupt Routing Table [\_SB_.PCI0.PCI3.PCI4._PRT]
+[    0.372943] ACPI: PCI Interrupt Routing Table [\_SB_.PCI0.PCI3.PCI4.PCI5._PRT]
+[    0.373112] ACPI: PCI Interrupt Routing Table [\_SB_.PCI0.PCI3.PCI4.PCI6._PRT]
+[    0.373272] ACPI: PCI Interrupt Routing Table [\_SB_.PCI0.PCI3.PCI7._PRT]
+[    0.373444] ACPI: PCI Interrupt Routing Table [\_SB_.PCI0.PCI8._PRT]
+[    0.373565] ACPI: PCI Interrupt Routing Table [\_SB_.PCI0.PCI9._PRT]
+[    0.373692]  pci0000:00: ACPI _OSC support notification failed, disabling PCIe ASPM
+[    0.373694]  pci0000:00: Unable to request _OSC control (_OSC support mask: 0x08)
+[    0.377829] ACPI: PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 7 9 10 *11 12 15)
+[    0.378145] ACPI: PCI Interrupt Link [LNKB] (IRQs 3 4 *5 6 7 9 10 11 12 15)
+[    0.378460] ACPI: PCI Interrupt Link [LNKC] (IRQs 3 4 *5 6 7 9 10 11 12 15)
+[    0.378779] ACPI: PCI Interrupt Link [LNKD] (IRQs 3 4 5 6 7 9 10 11 12 15) *0, disabled.
+[    0.379092] ACPI: PCI Interrupt Link [LNKE] (IRQs 3 4 5 6 7 *9 10 11 12 15)
+[    0.379410] ACPI: PCI Interrupt Link [LNKF] (IRQs 3 4 5 6 7 9 *10 11 12 15)
+[    0.379722] ACPI: PCI Interrupt Link [LNKG] (IRQs 3 4 5 6 7 *9 10 11 12 15)
+[    0.380047] ACPI: PCI Interrupt Link [LNKH] (IRQs 3 4 5 6 7 9 *10 11 12 15)
+[    0.380200] vgaarb: device added: PCI:0000:02:00.0,decodes=io+mem,owns=io+mem,locks=none
+[    0.380200] vgaarb: loaded
+[    0.380200] vgaarb: bridge control possible 0000:02:00.0
+[    0.380232] SCSI subsystem initialized
+[    0.380235] ACPI: bus type scsi registered
+[    0.380247] libata version 3.00 loaded.
+[    0.380247] ACPI: bus type usb registered
+[    0.380247] usbcore: registered new interface driver usbfs
+[    0.380247] usbcore: registered new interface driver hub
+[    0.380247] usbcore: registered new device driver usb
+[    0.380247] PCI: Using ACPI for IRQ routing
+[    0.386760] PCI: pci_cache_line_size set to 64 bytes
+[    0.386793] pci 0000:00:1f.2: no compatible bridge window for [mem 0xff970000-0xff9703ff]
+[    0.387218] Expanded resource reserved due to conflict with PCI Bus 0000:00
+[    0.387220] Expanded resource reserved due to conflict with PCI Bus 0000:00
+[    0.387222] e820: reserve RAM buffer [mem 0x0009e000-0x0009ffff]
+[    0.387225] e820: reserve RAM buffer [mem 0xcfe0ac00-0xcfffffff]
+[    0.387320] NetLabel: Initializing
+[    0.387322] NetLabel:  domain hash size = 128
+[    0.387323] NetLabel:  protocols = UNLABELED CIPSOv4
+[    0.387335] NetLabel:  unlabeled traffic allowed by default
+[    0.388044] HPET: 3 timers in total, 0 timers will be used for per-cpu timer
+[    0.388048] hpet0: at MMIO 0xfed00000, IRQs 2, 8, 0
+[    0.388052] hpet0: 3 comparators, 64-bit 14.318180 MHz counter
+[    0.392022] Switching to clocksource hpet
+[    0.399026] AppArmor: AppArmor Filesystem Enabled
+[    0.399055] pnp: PnP ACPI init
+[    0.399069] ACPI: bus type pnp registered
+[    0.401762] system 00:00: [io  0x0800-0x085f] has been reserved
+[    0.401765] system 00:00: [io  0x0c00-0x0c7f] has been reserved
+[    0.401768] system 00:00: [io  0x0860-0x08ff] has been reserved
+[    0.401772] system 00:00: Plug and Play ACPI device, IDs PNP0c01 (active)
+[    0.401888] pnp 00:01: [dma 4]
+[    0.401906] pnp 00:01: Plug and Play ACPI device, IDs PNP0200 (active)
+[    0.402021] pnp 00:02: Plug and Play ACPI device, IDs PNP0c04 (active)
+[    0.402127] pnp 00:03: Plug and Play ACPI device, IDs PNP0800 (active)
+[    0.402236] pnp 00:04: Plug and Play ACPI device, IDs PNP0b00 (active)
+[    0.411100] pnp 00:05: [dma 0 disabled]
+[    0.411589] pnp 00:05: Plug and Play ACPI device, IDs PNP0401 (active)
+[    0.414440] pnp 00:06: Plug and Play ACPI device, IDs PNP0501 (active)
+[    0.417278] pnp 00:07: Plug and Play ACPI device, IDs PNP0501 (active)
+[    0.423856] pnp 00:08: Plug and Play ACPI device, IDs PNP0103 (active)
+[    0.423862] pnp: PnP ACPI: found 9 devices
+[    0.423864] ACPI: ACPI bus type pnp unregistered
+[    0.433356] pci 0000:00:1c.0: bridge window [io  0x1000-0x0fff] to [bus 08] add_size 1000
+[    0.433360] pci 0000:00:1c.0: bridge window [mem 0x00100000-0x000fffff 64bit pref] to [bus 08] add_size 200000
+[    0.433374] pci 0000:00:1c.0: res[15]=[mem 0x00100000-0x000fffff 64bit pref] get_res_add_size add_size 200000
+[    0.433377] pci 0000:00:1c.0: res[13]=[io  0x1000-0x0fff] get_res_add_size add_size 1000
+[    0.433383] pci 0000:00:1c.0: BAR 15: assigned [mem 0xfbf00000-0xfc0fffff 64bit pref]
+[    0.433386] pci 0000:00:1c.0: BAR 13: assigned [io  0x1000-0x1fff]
+[    0.433389] pci 0000:00:1f.2: BAR 5: assigned [mem 0xfc100000-0xfc1003ff]
+[    0.433395] pci 0000:00:01.0: PCI bridge to [bus 01]
+[    0.433400] pci 0000:00:01.0:   bridge window [mem 0xfbe00000-0xfbefffff]
+[    0.433406] pci 0000:00:05.0: PCI bridge to [bus 02]
+[    0.433409] pci 0000:00:05.0:   bridge window [io  0xd000-0xdfff]
+[    0.433413] pci 0000:00:05.0:   bridge window [mem 0xf8000000-0xfbdfffff]
+[    0.433416] pci 0000:00:05.0:   bridge window [mem 0xd0000000-0xdfffffff 64bit pref]
+[    0.433421] pci 0000:04:00.0: PCI bridge to [bus 05]
+[    0.433802] pci 0000:04:01.0: PCI bridge to [bus 06]
+[    0.433847] pci 0000:04:01.0:   bridge window [io  0xc000-0xcfff]
+[    0.433985] pci 0000:04:01.0:   bridge window [mem 0xf7d00000-0xf7efffff]
+[    0.434260] pci 0000:03:00.0: PCI bridge to [bus 04-06]
+[    0.434306] pci 0000:03:00.0:   bridge window [io  0xc000-0xcfff]
+[    0.434443] pci 0000:03:00.0:   bridge window [mem 0xf7d00000-0xf7efffff]
+[    0.434718] pci 0000:03:00.3: PCI bridge to [bus 07]
+[    0.434948] pci 0000:00:09.0: PCI bridge to [bus 03-07]
+[    0.434951] pci 0000:00:09.0:   bridge window [io  0xc000-0xcfff]
+[    0.434955] pci 0000:00:09.0:   bridge window [mem 0xf7d00000-0xf7ffffff]
+[    0.434961] pci 0000:00:1c.0: PCI bridge to [bus 08]
+[    0.434964] pci 0000:00:1c.0:   bridge window [io  0x1000-0x1fff]
+[    0.434968] pci 0000:00:1c.0:   bridge window [mem 0xf7c00000-0xf7cfffff]
+[    0.434972] pci 0000:00:1c.0:   bridge window [mem 0xfbf00000-0xfc0fffff 64bit pref]
+[    0.434978] pci 0000:00:1e.0: PCI bridge to [bus 09]
+[    0.434981] pci 0000:00:1e.0:   bridge window [io  0xb000-0xbfff]
+[    0.434986] pci 0000:00:1e.0:   bridge window [mem 0xf0000000-0xf7bfffff]
+[    0.435554] pci 0000:00:1e.0: setting latency timer to 64
+[    0.435558] pci_bus 0000:00: resource 4 [io  0x0000-0x0cf7]
+[    0.435561] pci_bus 0000:00: resource 5 [io  0x0d00-0xffff]
+[    0.435563] pci_bus 0000:00: resource 6 [mem 0x000a0000-0x000bffff]
+[    0.435565] pci_bus 0000:00: resource 7 [mem 0x000c0000-0x000effff]
+[    0.435567] pci_bus 0000:00: resource 8 [mem 0x000f0000-0x000fffff]
+[    0.435570] pci_bus 0000:00: resource 9 [mem 0xf0000000-0xfe000000]
+[    0.435572] pci_bus 0000:00: resource 10 [mem 0xcff00000-0xdfffffff]
+[    0.435574] pci_bus 0000:00: resource 11 [mem 0xff980800-0xff980bff]
+[    0.435576] pci_bus 0000:00: resource 12 [mem 0xff97c000-0xff97ffff]
+[    0.435578] pci_bus 0000:00: resource 13 [mem 0xfed20000-0xfed9ffff]
+[    0.435581] pci_bus 0000:01: resource 1 [mem 0xfbe00000-0xfbefffff]
+[    0.435583] pci_bus 0000:02: resource 0 [io  0xd000-0xdfff]
+[    0.435585] pci_bus 0000:02: resource 1 [mem 0xf8000000-0xfbdfffff]
+[    0.435588] pci_bus 0000:02: resource 2 [mem 0xd0000000-0xdfffffff 64bit pref]
+[    0.435590] pci_bus 0000:03: resource 0 [io  0xc000-0xcfff]
+[    0.435592] pci_bus 0000:03: resource 1 [mem 0xf7d00000-0xf7ffffff]
+[    0.435595] pci_bus 0000:04: resource 0 [io  0xc000-0xcfff]
+[    0.435597] pci_bus 0000:04: resource 1 [mem 0xf7d00000-0xf7efffff]
+[    0.435600] pci_bus 0000:06: resource 0 [io  0xc000-0xcfff]
+[    0.435602] pci_bus 0000:06: resource 1 [mem 0xf7d00000-0xf7efffff]
+[    0.435605] pci_bus 0000:08: resource 0 [io  0x1000-0x1fff]
+[    0.435607] pci_bus 0000:08: resource 1 [mem 0xf7c00000-0xf7cfffff]
+[    0.435609] pci_bus 0000:08: resource 2 [mem 0xfbf00000-0xfc0fffff 64bit pref]
+[    0.435612] pci_bus 0000:09: resource 0 [io  0xb000-0xbfff]
+[    0.435614] pci_bus 0000:09: resource 1 [mem 0xf0000000-0xf7bfffff]
+[    0.435616] pci_bus 0000:09: resource 4 [io  0x0000-0x0cf7]
+[    0.435619] pci_bus 0000:09: resource 5 [io  0x0d00-0xffff]
+[    0.435621] pci_bus 0000:09: resource 6 [mem 0x000a0000-0x000bffff]
+[    0.435623] pci_bus 0000:09: resource 7 [mem 0x000c0000-0x000effff]
+[    0.435625] pci_bus 0000:09: resource 8 [mem 0x000f0000-0x000fffff]
+[    0.435628] pci_bus 0000:09: resource 9 [mem 0xf0000000-0xfe000000]
+[    0.435630] pci_bus 0000:09: resource 10 [mem 0xcff00000-0xdfffffff]
+[    0.435632] pci_bus 0000:09: resource 11 [mem 0xff980800-0xff980bff]
+[    0.435634] pci_bus 0000:09: resource 12 [mem 0xff97c000-0xff97ffff]
+[    0.435636] pci_bus 0000:09: resource 13 [mem 0xfed20000-0xfed9ffff]
+[    0.435679] NET: Registered protocol family 2
+[    0.435863] TCP established hash table entries: 32768 (order: 7, 524288 bytes)
+[    0.436122] TCP bind hash table entries: 32768 (order: 7, 524288 bytes)
+[    0.436342] TCP: Hash tables configured (established 32768 bind 32768)
+[    0.436394] TCP: reno registered
+[    0.436402] UDP hash table entries: 2048 (order: 4, 65536 bytes)
+[    0.436438] UDP-Lite hash table entries: 2048 (order: 4, 65536 bytes)
+[    0.436530] NET: Registered protocol family 1
+[    0.436685] pci 0000:00:1f.0: rerouting interrupts for [8086:2670]
+[    0.436708] pci 0000:02:00.0: Boot video device
+[    0.436901] PCI: CLS 64 bytes, default 64
+[    0.436954] Trying to unpack rootfs image as initramfs...
+[    0.723927] Freeing initrd memory: 15652k freed
+[    0.730162] PCI-DMA: Using software bounce buffering for IO (SWIOTLB)
+[    0.730171] software IO TLB [mem 0xcbe08000-0xcfe08000] (64MB) mapped at [ffff8800cbe08000-ffff8800cfe07fff]
+[    0.730226] Simple Boot Flag at 0x7a set to 0x1
+[    0.730694] Initialise module verification
+[    0.730763] audit: initializing netlink socket (disabled)
+[    0.730785] type=2000 audit(1377724936.728:1): initialized
+[    0.759640] HugeTLB registered 2 MB page size, pre-allocated 0 pages
+[    0.761467] VFS: Disk quotas dquot_6.5.2
+[    0.761513] Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+[    0.762052] fuse init (API version 7.20)
+[    0.762132] msgmni has been set to 7897
+[    0.762837] Key type asymmetric registered
+[    0.762840] Asymmetric key parser 'x509' registered
+[    0.762873] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 252)
+[    0.762931] io scheduler noop registered
+[    0.762934] io scheduler deadline registered (default)
+[    0.762939] io scheduler cfq registered
+[    0.763182] pcieport 0000:00:1c.0: irq 88 for MSI/MSI-X
+[    0.767160] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+[    0.767175] pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+[    0.767226] intel_idle: does not run on family 6 model 23
+[    0.767293] input: Power Button as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0C:00/input/input0
+[    0.767300] ACPI: Power Button [VBTN]
+[    0.767345] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input1
+[    0.767347] ACPI: Power Button [PWRF]
+[    1.045597] GHES: HEST is not enabled!
+[    1.045687] Serial: 8250/16550 driver, 32 ports, IRQ sharing enabled
+[    1.066079] 00:06: ttyS0 at I/O 0x3f8 (irq = 4) is a 16550A
+[    1.086486] 00:07: ttyS1 at I/O 0x2f8 (irq = 3) is a 16550A
+[    1.087840] Linux agpgart interface v0.103
+[    1.089235] brd: module loaded
+[    1.089940] loop: module loaded
+[    1.090043] ata_piix 0000:00:1f.1: version 2.13
+[    1.090086] ata_piix 0000:00:1f.1: setting latency timer to 64
+[    1.090352] scsi0 : ata_piix
+[    1.090442] scsi1 : ata_piix
+[    1.090473] ata1: PATA max UDMA/100 cmd 0x1f0 ctl 0x3f6 bmdma 0xffa0 irq 14
+[    1.090475] ata2: PATA max UDMA/100 cmd 0x170 ctl 0x376 bmdma 0xffa8 irq 15
+[    1.090528] ata1: port disabled--ignoring
+[    1.090562] ata2: port disabled--ignoring
+[    1.090745] libphy: Fixed MDIO Bus: probed
+[    1.090810] tun: Universal TUN/TAP device driver, 1.6
+[    1.090812] tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+[    1.090851] PPP generic driver version 2.4.2
+[    1.090892] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+[    1.090894] ehci-pci: EHCI PCI platform driver
+[    1.090935] ehci-pci 0000:00:1d.7: setting latency timer to 64
+[    1.090939] ehci-pci 0000:00:1d.7: EHCI Host Controller
+[    1.090948] ehci-pci 0000:00:1d.7: new USB bus registered, assigned bus number 1
+[    1.090962] ehci-pci 0000:00:1d.7: debug port 1
+[    1.094861] ehci-pci 0000:00:1d.7: cache line size of 64 is not supported
+[    1.094876] ehci-pci 0000:00:1d.7: irq 21, io mem 0xff980800
+[    1.104015] ehci-pci 0000:00:1d.7: USB 2.0 started, EHCI 1.00
+[    1.104071] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002
+[    1.104073] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[    1.104076] usb usb1: Product: EHCI Host Controller
+[    1.104078] usb usb1: Manufacturer: Linux 3.8.0-29-generic ehci_hcd
+[    1.104080] usb usb1: SerialNumber: 0000:00:1d.7
+[    1.104180] hub 1-0:1.0: USB hub found
+[    1.104186] hub 1-0:1.0: 8 ports detected
+[    1.104314] ehci-platform: EHCI generic platform driver
+[    1.104323] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+[    1.104339] uhci_hcd: USB Universal Host Controller Interface driver
+[    1.104356] uhci_hcd 0000:00:1d.0: setting latency timer to 64
+[    1.104359] uhci_hcd 0000:00:1d.0: UHCI Host Controller
+[    1.104365] uhci_hcd 0000:00:1d.0: new USB bus registered, assigned bus number 2
+[    1.104386] uhci_hcd 0000:00:1d.0: irq 21, io base 0x0000ff80
+[    1.104418] usb usb2: New USB device found, idVendor=1d6b, idProduct=0001
+[    1.104420] usb usb2: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[    1.104422] usb usb2: Product: UHCI Host Controller
+[    1.104425] usb usb2: Manufacturer: Linux 3.8.0-29-generic uhci_hcd
+[    1.104427] usb usb2: SerialNumber: 0000:00:1d.0
+[    1.104507] hub 2-0:1.0: USB hub found
+[    1.104512] hub 2-0:1.0: 2 ports detected
+[    1.104589] uhci_hcd 0000:00:1d.1: setting latency timer to 64
+[    1.104593] uhci_hcd 0000:00:1d.1: UHCI Host Controller
+[    1.104598] uhci_hcd 0000:00:1d.1: new USB bus registered, assigned bus number 3
+[    1.104629] uhci_hcd 0000:00:1d.1: irq 22, io base 0x0000ff60
+[    1.104657] usb usb3: New USB device found, idVendor=1d6b, idProduct=0001
+[    1.104659] usb usb3: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[    1.104662] usb usb3: Product: UHCI Host Controller
+[    1.104664] usb usb3: Manufacturer: Linux 3.8.0-29-generic uhci_hcd
+[    1.104666] usb usb3: SerialNumber: 0000:00:1d.1
+[    1.104749] hub 3-0:1.0: USB hub found
+[    1.104753] hub 3-0:1.0: 2 ports detected
+[    1.104821] uhci_hcd 0000:00:1d.2: setting latency timer to 64
+[    1.104825] uhci_hcd 0000:00:1d.2: UHCI Host Controller
+[    1.104830] uhci_hcd 0000:00:1d.2: new USB bus registered, assigned bus number 4
+[    1.104859] uhci_hcd 0000:00:1d.2: irq 18, io base 0x0000ff40
+[    1.104887] usb usb4: New USB device found, idVendor=1d6b, idProduct=0001
+[    1.104890] usb usb4: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[    1.104892] usb usb4: Product: UHCI Host Controller
+[    1.104894] usb usb4: Manufacturer: Linux 3.8.0-29-generic uhci_hcd
+[    1.104896] usb usb4: SerialNumber: 0000:00:1d.2
+[    1.104972] hub 4-0:1.0: USB hub found
+[    1.104976] hub 4-0:1.0: 2 ports detected
+[    1.105050] uhci_hcd 0000:00:1d.3: setting latency timer to 64
+[    1.105053] uhci_hcd 0000:00:1d.3: UHCI Host Controller
+[    1.105061] uhci_hcd 0000:00:1d.3: new USB bus registered, assigned bus number 5
+[    1.105090] uhci_hcd 0000:00:1d.3: irq 23, io base 0x0000ff20
+[    1.105119] usb usb5: New USB device found, idVendor=1d6b, idProduct=0001
+[    1.105122] usb usb5: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[    1.105124] usb usb5: Product: UHCI Host Controller
+[    1.105126] usb usb5: Manufacturer: Linux 3.8.0-29-generic uhci_hcd
+[    1.105128] usb usb5: SerialNumber: 0000:00:1d.3
+[    1.105205] hub 5-0:1.0: USB hub found
+[    1.105209] hub 5-0:1.0: 2 ports detected
+[    1.105317] i8042: PNP: No PS/2 controller found. Probing ports directly.
+[    1.108109] serio: i8042 KBD port at 0x60,0x64 irq 1
+[    1.108116] serio: i8042 AUX port at 0x60,0x64 irq 12
+[    1.108249] mousedev: PS/2 mouse device common for all mice
+[    1.108379] rtc_cmos 00:04: RTC can wake from S4
+[    1.108486] rtc_cmos 00:04: rtc core: registered rtc_cmos as rtc0
+[    1.108511] rtc0: alarms up to one day, 242 bytes nvram, hpet irqs
+[    1.108594] device-mapper: uevent: version 1.0.3
+[    1.108651] device-mapper: ioctl: 4.23.1-ioctl (2012-12-18) initialised: dm-devel@redhat.com
+[    1.108658] cpuidle: using governor ladder
+[    1.108660] cpuidle: using governor menu
+[    1.108665] ledtrig-cpu: registered to indicate activity on CPUs
+[    1.108667] EFI Variables Facility v0.08 2004-May-17
+[    1.108847] ashmem: initialized
+[    1.108954] TCP: cubic registered
+[    1.109054] NET: Registered protocol family 10
+[    1.109226] NET: Registered protocol family 17
+[    1.109237] Key type dns_resolver registered
+[    1.109458] Loading module verification certificates
+[    1.110523] MODSIGN: Loaded cert 'Magrathea: Glacier signing key: 38550890b1fce75cc801d8fb942703db919b9386'
+[    1.110537] registered taskstats version 1
+[    1.113419] Key type trusted registered
+[    1.115280] Key type encrypted registered
+[    1.120102] rtc_cmos 00:04: setting system clock to 2013-08-28 21:22:17 UTC (1377724937)
+[    1.120184] BIOS EDD facility v0.16 2004-Jun-25, 0 devices found
+[    1.120186] EDD information not available.
+[    1.121949] Freeing unused kernel memory: 1012k freed
+[    1.122218] Write protecting the kernel read-only data: 12288k
+[    1.125537] Freeing unused kernel memory: 1012k freed
+[    1.129016] Freeing unused kernel memory: 1008k freed
+[    1.145194] udevd[108]: starting version 175
+[    1.171416] Disabling lock debugging due to kernel taint
+[    1.171656] pps_core: LinuxPPS API ver. 1 registered
+[    1.171658] pps_core: Software ver. 5.3.6 - Copyright 2005-2007 Rodolfo Giometti <giometti@linux.it>
+[    1.171886] PTP clock support registered
+[    1.172792] tg3.c:v3.128 (December 03, 2012)
+[    1.177265] megasas: 06.504.01.00-rc1 Mon. Oct. 1 17:00:00 PDT 2012
+[    1.177298] megasas: 0x1000:0x0060:0x1028:0x1f0b: bus 6:slot 0:func 0
+[    1.177486] megasas: FW now in Ready state
+[    1.181817] ahci 0000:00:1f.2: version 3.0
+[    1.181923] ahci 0000:00:1f.2: AHCI 0001.0100 32 slots 6 ports 3 Gbps 0x1f impl SATA mode
+[    1.181927] ahci 0000:00:1f.2: flags: 64bit ncq pm led slum part 
+[    1.181931] ahci 0000:00:1f.2: setting latency timer to 64
+[    1.183518] scsi3 : ahci
+[    1.183603] scsi4 : ahci
+[    1.183662] scsi5 : ahci
+[    1.183727] scsi6 : ahci
+[    1.183782] scsi7 : ahci
+[    1.183838] scsi8 : ahci
+[    1.183875] ata3: SATA max UDMA/133 abar m1024@0xfc100000 port 0xfc100100 irq 20
+[    1.183878] ata4: SATA max UDMA/133 abar m1024@0xfc100000 port 0xfc100180 irq 20
+[    1.183880] ata5: SATA max UDMA/133 abar m1024@0xfc100000 port 0xfc100200 irq 20
+[    1.183882] ata6: SATA max UDMA/133 abar m1024@0xfc100000 port 0xfc100280 irq 20
+[    1.183885] ata7: SATA max UDMA/133 abar m1024@0xfc100000 port 0xfc100300 irq 20
+[    1.183886] ata8: DUMMY
+[    1.186279] tg3 0000:01:00.0 eth0: Tigon3 [partno(BCM95721A211F) rev 4201] (PCI Express) MAC address 00:10:18:33:4f:d5
+[    1.186285] tg3 0000:01:00.0 eth0: attached PHY is 5750 (10/100/1000Base-T Ethernet) (WireSpeed[1], EEE[0])
+[    1.186287] tg3 0000:01:00.0 eth0: RXcsums[1] LinkChgREG[0] MIirq[0] ASF[0] TSOcap[1]
+[    1.186290] tg3 0000:01:00.0 eth0: dma_rwctrl[76180000] dma_mask[64-bit]
+[    1.205108] tg3 0000:08:00.0 eth1: Tigon3 [partno(BCM95754) rev b002] (PCI Express) MAC address 00:1e:4f:d0:36:5a
+[    1.205114] tg3 0000:08:00.0 eth1: attached PHY is 5787 (10/100/1000Base-T Ethernet) (WireSpeed[1], EEE[0])
+[    1.205117] tg3 0000:08:00.0 eth1: RXcsums[1] LinkChgREG[0] MIirq[0] ASF[0] TSOcap[1]
+[    1.205119] tg3 0000:08:00.0 eth1: dma_rwctrl[76180000] dma_mask[64-bit]
+[    1.224044] megasas_init_mfi: fw_support_ieee=0
+[    1.224047] megasas: INIT adapter done
+[    1.296040] scsi2 : LSI SAS based MegaRAID driver
+[    1.297111] scsi 2:0:0:0: Direct-Access     FUJITSU  MBA3147RC        D305 PQ: 0 ANSI: 5
+[    1.298022] scsi 2:0:1:0: Direct-Access     FUJITSU  MBA3147RC        D305 PQ: 0 ANSI: 5
+[    1.298901] scsi 2:0:2:0: Direct-Access     FUJITSU  MBA3147RC        D305 PQ: 0 ANSI: 5
+[    1.320781] scsi 2:2:0:0: Direct-Access     DELL     PERC 6/i Adapter 1.11 PQ: 0 ANSI: 5
+[    1.336986] sd 2:2:0:0: [sda] 570949632 512-byte logical blocks: (292 GB/272 GiB)
+[    1.337022] sd 2:2:0:0: Attached scsi generic sg0 type 0
+[    1.337131] sd 2:2:0:0: [sda] Write Protect is off
+[    1.337134] sd 2:2:0:0: [sda] Mode Sense: 1f 00 00 08
+[    1.337210] sd 2:2:0:0: [sda] Write cache: enabled, read cache: disabled, doesn't support DPO or FUA
+[    1.338064]  sda: sda1 sda2 < sda5 >
+[    1.338608] sd 2:2:0:0: [sda] Attached SCSI disk
+[    1.500026] ata5: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+[    1.500048] ata4: SATA link down (SStatus 0 SControl 300)
+[    1.500073] ata6: SATA link down (SStatus 0 SControl 300)
+[    1.501738] ata5.00: ATAPI: HL-DT-ST DVD+/-RW GSA-H73N, B103, max UDMA/100
+[    1.503829] ata5.00: configured for UDMA/100
+[    1.504021] ata3: SATA link down (SStatus 0 SControl 300)
+[    1.504039] ata7: SATA link down (SStatus 4 SControl 300)
+[    1.506620] scsi 5:0:0:0: CD-ROM            HL-DT-ST DVD+-RW GSA-H73N B103 PQ: 0 ANSI: 5
+[    1.509166] sr0: scsi3-mmc drive: 48x/48x writer cd/rw xa/form2 cdda tray
+[    1.509170] cdrom: Uniform CD-ROM driver Revision: 3.20
+[    1.509302] sr 5:0:0:0: Attached scsi CD-ROM sr0
+[    1.509370] sr 5:0:0:0: Attached scsi generic sg1 type 5
+[    1.656026] usb 5-1: new low-speed USB device number 2 using uhci_hcd
+[    1.672082] EXT4-fs (sda1): mounted filesystem with ordered data mode. Opts: (null)
+[    1.728020] tsc: Refined TSC clocksource calibration: 2327.499 MHz
+[    1.728028] Switching to clocksource tsc
+[    1.835133] usb 5-1: New USB device found, idVendor=046d, idProduct=c313
+[    1.835138] usb 5-1: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[    1.835141] usb 5-1: Product: USB Multimedia Keyboard
+[    1.835143] usb 5-1: Manufacturer: BTC
+[    2.076021] usb 5-2: new low-speed USB device number 3 using uhci_hcd
+[    2.152614] init: ureadahead main process (272) terminated with status 5
+[    2.252129] usb 5-2: New USB device found, idVendor=046d, idProduct=c025
+[    2.252133] usb 5-2: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[    2.252136] usb 5-2: Product: USB-PS/2 Optical Mouse
+[    2.252138] usb 5-2: Manufacturer: Logitech
+[    2.589084] Adding 4189180k swap on /dev/sda5.  Priority:-1 extents:1 across:4189180k 
+[    2.719586] EXT4-fs (sda1): re-mounted. Opts: errors=remount-ro
+[    2.841593] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[    2.841601] IPv6: ADDRCONF(NETDEV_UP): eth1: link is not ready
+[    3.055265] udevd[384]: starting version 175
+[    3.364301] lp: driver loaded but no devices found
+[    3.373895] parport_pc 00:05: reported by Plug and Play ACPI
+[    3.373951] parport0: PC-style at 0x378 (0x778), irq 7 [PCSPP,TRISTATE]
+[    3.374998] intel_rng: Firmware space is locked read-only. If you can't or
+[    3.374998] intel_rng: don't want to disable this in firmware setup, and if
+[    3.374998] intel_rng: you are certain that your system has a functional
+[    3.374998] intel_rng: RNG, try using the 'no_fwh_detect' option.
+[    3.390733] ACPI Warning: 0x0000000000000828-0x000000000000082f SystemIO conflicts with Region \GLBC 1 (20121018/utaddress-251)
+[    3.390740] ACPI Warning: 0x0000000000000828-0x000000000000082f SystemIO conflicts with Region \SACT 2 (20121018/utaddress-251)
+[    3.390744] ACPI Warning: 0x0000000000000828-0x000000000000082f SystemIO conflicts with Region \SSTS 3 (20121018/utaddress-251)
+[    3.390748] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+[    3.390776] lpc_ich: Resource conflict(s) found affecting gpio_ich
+[    3.396332] ppdev: user-space parallel port driver
+[    3.404086] i5k_amb: probe of i5k_amb.0 failed with error -16
+[    3.411614] dcdbas dcdbas: Dell Systems Management Base Driver (version 5.6.0-3.2)
+[    3.414276] microcode: CPU0 sig=0x10676, pf=0x40, revision=0x60b
+[    3.461573] lp0: using parport0 (interrupt-driven).
+[    3.473585] shpchp: Standard Hot Plug PCI Controller Driver version: 0.4
+[    3.490372] microcode: CPU1 sig=0x10676, pf=0x40, revision=0x60b
+[    3.491837] microcode: CPU2 sig=0x10676, pf=0x40, revision=0x60b
+[    3.493392] microcode: CPU3 sig=0x10676, pf=0x40, revision=0x60b
+[    3.494789] microcode: Microcode Update Driver: v2.00 <tigran@aivazian.fsnet.co.uk>, Peter Oruba
+[    3.505514] EDAC MC: Ver: 3.0.0
+[    3.516115] EDAC MC0: Giving out device to 'i5400_edac.c' 'I5400': DEV 0000:00:10.0
+[    3.516127] EDAC PCI0: Giving out device to module 'i5400_edac' controller 'EDAC PCI controller': DEV '0000:00:10.0' (POLLED)
+[    3.520745] gpio_ich: ACPI BAR is unavailable, GPI 0 - 15 unavailable
+[    3.520749] gpio_ich: GPIO from 206 to 255 on gpio_ich
+[    3.664200] kvm: disabled by bios
+[    3.673686] kvm: disabled by bios
+[    3.851219] type=1400 audit(1377724940.227:2): apparmor="STATUS" operation="profile_load" name="/sbin/dhclient" pid=799 comm="apparmor_parser"
+[    3.851231] type=1400 audit(1377724940.227:3): apparmor="STATUS" operation="profile_replace" name="/sbin/dhclient" pid=800 comm="apparmor_parser"
+[    3.851590] type=1400 audit(1377724940.227:4): apparmor="STATUS" operation="profile_load" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=799 comm="apparmor_parser"
+[    3.851603] type=1400 audit(1377724940.227:5): apparmor="STATUS" operation="profile_replace" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=800 comm="apparmor_parser"
+[    3.851800] type=1400 audit(1377724940.227:6): apparmor="STATUS" operation="profile_load" name="/usr/lib/connman/scripts/dhclient-script" pid=799 comm="apparmor_parser"
+[    3.851816] type=1400 audit(1377724940.227:7): apparmor="STATUS" operation="profile_replace" name="/usr/lib/connman/scripts/dhclient-script" pid=800 comm="apparmor_parser"
+[    3.852289] type=1400 audit(1377724940.231:8): apparmor="STATUS" operation="profile_replace" name="/sbin/dhclient" pid=801 comm="apparmor_parser"
+[    3.852683] type=1400 audit(1377724940.231:9): apparmor="STATUS" operation="profile_replace" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=801 comm="apparmor_parser"
+[    3.852896] type=1400 audit(1377724940.231:10): apparmor="STATUS" operation="profile_replace" name="/usr/lib/connman/scripts/dhclient-script" pid=801 comm="apparmor_parser"
+[    3.893197] usbcore: registered new interface driver usbhid
+[    3.893202] usbhid: USB HID core driver
+[    3.908972] input: BTC USB Multimedia Keyboard as /devices/pci0000:00/0000:00:1d.3/usb5/5-1/5-1:1.0/input/input2
+[    3.909189] hid-generic 0003:046D:C313.0001: input,hidraw0: USB HID v1.10 Keyboard [BTC USB Multimedia Keyboard] on usb-0000:00:1d.3-1/input0
+[    3.926189] input: BTC USB Multimedia Keyboard as /devices/pci0000:00/0000:00:1d.3/usb5/5-1/5-1:1.1/input/input3
+[    3.926666] hid-generic 0003:046D:C313.0002: input,hiddev0,hidraw1: USB HID v1.10 Device [BTC USB Multimedia Keyboard] on usb-0000:00:1d.3-1/input1
+[    3.926907] input: Logitech USB-PS/2 Optical Mouse as /devices/pci0000:00/0000:00:1d.3/usb5/5-2/5-2:1.0/input/input4
+[    3.927344] hid-generic 0003:046D:C025.0003: input,hidraw2: USB HID v1.10 Mouse [Logitech USB-PS/2 Optical Mouse] on usb-0000:00:1d.3-2/input0
+[    3.980124] Bluetooth: Core ver 2.16
+[    3.980150] NET: Registered protocol family 31
+[    3.980152] Bluetooth: HCI device and connection manager initialized
+[    3.980162] Bluetooth: HCI socket layer initialized
+[    3.980165] Bluetooth: L2CAP socket layer initialized
+[    3.980170] Bluetooth: SCO socket layer initialized
+[    4.010647] Bluetooth: RFCOMM TTY layer initialized
+[    4.010663] Bluetooth: RFCOMM socket layer initialized
+[    4.010664] Bluetooth: RFCOMM ver 1.11
+[    4.047637] Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+[    4.047642] Bluetooth: BNEP filters: protocol multicast
+[    4.047655] Bluetooth: BNEP socket layer initialized
+[    4.057583] init: failsafe main process (829) killed by TERM signal
+[    4.228552] nvidia: module license 'NVIDIA' taints kernel.
+[    4.489866] vgaarb: device changed decodes: PCI:0000:02:00.0,olddecodes=io+mem,decodes=none:owns=io+mem
+[    4.490022] NVRM: loading NVIDIA UNIX x86_64 Kernel Module  173.14.37  Wed Mar  6 18:37:51 PST 2013
+[    4.793650] vesafb: mode is 1280x800x32, linelength=5120, pages=0
+[    4.793654] vesafb: scrolling: redraw
+[    4.793657] vesafb: Truecolor: size=8:8:8:8, shift=24:16:8:0
+[    4.793665] mtrr: type mismatch for f9000000,400000 old: write-back new: write-combining
+[    4.793667] mtrr: type mismatch for f9000000,200000 old: write-back new: write-combining
+[    4.793670] mtrr: type mismatch for f9000000,100000 old: write-back new: write-combining
+[    4.793672] mtrr: type mismatch for f9000000,80000 old: write-back new: write-combining
+[    4.793675] mtrr: type mismatch for f9000000,40000 old: write-back new: write-combining
+[    4.793677] mtrr: type mismatch for f9000000,20000 old: write-back new: write-combining
+[    4.793680] mtrr: type mismatch for f9000000,10000 old: write-back new: write-combining
+[    4.793682] mtrr: type mismatch for f9000000,8000 old: write-back new: write-combining
+[    4.793684] mtrr: type mismatch for f9000000,4000 old: write-back new: write-combining
+[    4.793687] mtrr: type mismatch for f9000000,2000 old: write-back new: write-combining
+[    4.793689] mtrr: type mismatch for f9000000,1000 old: write-back new: write-combining
+[    4.794094] vesafb: framebuffer at 0xf9000000, mapped to 0xffffc90010c80000, using 4032k, total 4032k
+[    4.794322] Console: switching to colour frame buffer device 160x50
+[    4.796826] fb0: VESA VGA frame buffer device
+[    5.264726] tg3 0000:01:00.0: irq 89 for MSI/MSI-X
+[    5.308077] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[    5.308387] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[    5.316529] tg3 0000:08:00.0: irq 90 for MSI/MSI-X
+[    5.364053] IPv6: ADDRCONF(NETDEV_UP): eth1: link is not ready
+[    5.364298] IPv6: ADDRCONF(NETDEV_UP): eth1: link is not ready
+[    8.533161] tg3 0000:08:00.0 eth1: Link is up at 1000 Mbps, full duplex
+[    8.533167] tg3 0000:08:00.0 eth1: Flow control is on for TX and on for RX
+[    8.533182] IPv6: ADDRCONF(NETDEV_CHANGE): eth1: link becomes ready
+[57505.228253] audit_printk_skb: 57 callbacks suppressed
+[57505.228259] type=1400 audit(1377782441.605:30): apparmor="DENIED" operation="open" parent=1 profile="/usr/lib/telepathy/mission-control-5" name="/usr/share/gvfs/remote-volume-monitors/" pid=2365 comm="mission-control" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[58203.670683] type=1400 audit(1377783140.045:31): apparmor="STATUS" operation="profile_load" name="lxc-container-default" pid=2639 comm="apparmor_parser"
+[58203.711394] type=1400 audit(1377783140.085:32): apparmor="STATUS" operation="profile_load" name="/usr/bin/lxc-start" pid=2647 comm="apparmor_parser"
+[58203.773051] Bridge firewalling registered
+[58203.841687] ip_tables: (C) 2000-2006 Netfilter Core Team
+[58203.856879] nf_conntrack version 0.5.0 (16384 buckets, 65536 max)
+[58203.899205] type=1400 audit(1377783140.273:33): apparmor="STATUS" operation="profile_replace" name="/usr/bin/lxc-start" pid=2709 comm="apparmor_parser"
+[58203.904247] type=1400 audit(1377783140.281:34): apparmor="STATUS" operation="profile_replace" name="lxc-container-default" pid=2714 comm="apparmor_parser"
+[58284.560280] init: docker main process (2854) killed by TERM signal
+[58335.037147] type=1400 audit(1377783271.413:35): apparmor="DENIED" operation="capable" parent=1 profile="/usr/sbin/cupsd" pid=855 comm="cupsd" pid=855 comm="cupsd" capability=36  capname="block_suspend"
+[58810.843857] aufs 3.x-rcN-20121112
+[58810.888612] device vethQnfAB3 entered promiscuous mode
+[58810.888720] IPv6: ADDRCONF(NETDEV_UP): vethQnfAB3: link is not ready
+[58810.904219] cgroup: lxc-start (3086) created nested cgroup for controller "memory" which has incomplete hierarchy support. Nested cgroups may change behavior in the future.
+[58810.904223] cgroup: "memory" requires setting use_hierarchy to 1 on the root.
+[58810.908237] cgroup: lxc-start (3086) created nested cgroup for controller "devices" which has incomplete hierarchy support. Nested cgroups may change behavior in the future.
+[58810.916142] cgroup: lxc-start (3086) created nested cgroup for controller "blkio" which has incomplete hierarchy support. Nested cgroups may change behavior in the future.
+[58810.916340] cgroup: lxc-start (3086) created nested cgroup for controller "perf_event" which has incomplete hierarchy support. Nested cgroups may change behavior in the future.
+[58810.956977] IPv6: ADDRCONF(NETDEV_CHANGE): vethQnfAB3: link becomes ready
+[58810.957039] docker0: port 1(vethQnfAB3) entered forwarding state
+[58810.957061] docker0: port 1(vethQnfAB3) entered forwarding state
+[58825.984008] docker0: port 1(vethQnfAB3) entered forwarding state
+[58929.936398] sda1: WRITE SAME failed. Manually zeroing.
+[60635.776321] docker0: port 1(vethQnfAB3) entered disabled state
+[60635.976790] device vethQnfAB3 left promiscuous mode
+[60635.976799] docker0: port 1(vethQnfAB3) entered disabled state
+[82219.392358] init: docker main process (3023) killed by KILL signal
+[82219.392388] init: docker main process ended, respawning
+[82219.440093] init: docker main process (4994) terminated with status 1
+[82219.440123] init: docker main process ended, respawning
+[82219.470090] init: docker main process (5000) terminated with status 1
+[82219.470118] init: docker main process ended, respawning
+[82219.498798] init: docker main process (5006) terminated with status 1
+[82219.498826] init: docker main process ended, respawning
+[82219.527123] init: docker main process (5012) terminated with status 1
+[82219.527150] init: docker main process ended, respawning
+[82219.558426] init: docker main process (5018) terminated with status 1
+[82219.558451] init: docker main process ended, respawning
+[82219.589496] init: docker main process (5024) terminated with status 1
+[82219.589521] init: docker main process ended, respawning
+[82219.620605] init: docker main process (5030) terminated with status 1
+[82219.620629] init: docker main process ended, respawning
+[82219.651887] init: docker main process (5036) terminated with status 1
+[82219.651914] init: docker main process ended, respawning
+[82219.682063] init: docker main process (5043) terminated with status 1
+[82219.682091] init: docker main process ended, respawning
+[82219.713754] init: docker main process (5049) terminated with status 1
+[82219.713779] init: docker respawning too fast, stopped
+[138052.448748] type=1400 audit(1377862988.827:36): apparmor="DENIED" operation="capable" parent=1 profile="/usr/sbin/cupsd" pid=855 comm="cupsd" pid=855 comm="cupsd" capability=36  capname="block_suspend"
+[155468.201663] device vethGxq8g9 entered promiscuous mode
+[155468.201755] IPv6: ADDRCONF(NETDEV_UP): vethGxq8g9: link is not ready
+[155468.212633] IPv6: ADDRCONF(NETDEV_CHANGE): vethGxq8g9: link becomes ready
+[155468.212694] docker0: port 1(vethGxq8g9) entered forwarding state
+[155468.212701] docker0: port 1(vethGxq8g9) entered forwarding state
+[155468.348311] docker0: port 1(vethGxq8g9) entered disabled state
+[155468.348750] device vethGxq8g9 left promiscuous mode
+[155468.348753] docker0: port 1(vethGxq8g9) entered disabled state
+[155550.692566] device vethnJBaMY entered promiscuous mode
+[155550.692687] IPv6: ADDRCONF(NETDEV_UP): vethnJBaMY: link is not ready
+[155550.734951] IPv6: ADDRCONF(NETDEV_CHANGE): vethnJBaMY: link becomes ready
+[155550.735015] docker0: port 1(vethnJBaMY) entered forwarding state
+[155550.735026] docker0: port 1(vethnJBaMY) entered forwarding state
+[155565.760008] docker0: port 1(vethnJBaMY) entered forwarding state
+[157482.728322] docker0: port 1(vethnJBaMY) entered disabled state
+[157482.763994] device vethnJBaMY left promiscuous mode
+[157482.764011] docker0: port 1(vethnJBaMY) entered disabled state
+[157896.768592] device vethbAIRKa entered promiscuous mode
+[157896.768702] IPv6: ADDRCONF(NETDEV_UP): vethbAIRKa: link is not ready
+[157896.799052] IPv6: ADDRCONF(NETDEV_CHANGE): vethbAIRKa: link becomes ready
+[157896.799120] docker0: port 1(vethbAIRKa) entered forwarding state
+[157896.799132] docker0: port 1(vethbAIRKa) entered forwarding state
+[157911.840006] docker0: port 1(vethbAIRKa) entered forwarding state
+[157920.280374] docker0: port 1(vethbAIRKa) entered disabled state
+[157920.281186] device vethbAIRKa left promiscuous mode
+[157920.281189] docker0: port 1(vethbAIRKa) entered disabled state
+[162021.403651] device vethPOfnwU entered promiscuous mode
+[162021.403763] IPv6: ADDRCONF(NETDEV_UP): vethPOfnwU: link is not ready
+[162021.447015] IPv6: ADDRCONF(NETDEV_CHANGE): vethPOfnwU: link becomes ready
+[162021.447072] docker0: port 1(vethPOfnwU) entered forwarding state
+[162021.447083] docker0: port 1(vethPOfnwU) entered forwarding state
+[162028.192466] docker0: port 1(vethPOfnwU) entered disabled state
+[162028.192888] device vethPOfnwU left promiscuous mode
+[162028.192891] docker0: port 1(vethPOfnwU) entered disabled state
+[162040.953283] device vethW8KKke entered promiscuous mode
+[162040.953439] IPv6: ADDRCONF(NETDEV_UP): vethW8KKke: link is not ready
+[162040.999403] IPv6: ADDRCONF(NETDEV_CHANGE): vethW8KKke: link becomes ready
+[162040.999461] docker0: port 1(vethW8KKke) entered forwarding state
+[162040.999473] docker0: port 1(vethW8KKke) entered forwarding state
+[162056.032008] docker0: port 1(vethW8KKke) entered forwarding state
+[171573.865016] device vethBRlt4K entered promiscuous mode
+[171573.865270] IPv6: ADDRCONF(NETDEV_UP): vethBRlt4K: link is not ready
+[171573.895037] IPv6: ADDRCONF(NETDEV_CHANGE): vethBRlt4K: link becomes ready
+[171573.895090] docker0: port 2(vethBRlt4K) entered forwarding state
+[171573.895100] docker0: port 2(vethBRlt4K) entered forwarding state
+[171573.940407] docker0: port 2(vethBRlt4K) entered disabled state
+[171573.940767] device vethBRlt4K left promiscuous mode
+[171573.940770] docker0: port 2(vethBRlt4K) entered disabled state
+[171574.004925] device vethc39e6S entered promiscuous mode
+[171574.005100] IPv6: ADDRCONF(NETDEV_UP): vethc39e6S: link is not ready
+[171574.235030] IPv6: ADDRCONF(NETDEV_CHANGE): vethc39e6S: link becomes ready
+[171574.235083] docker0: port 2(vethc39e6S) entered forwarding state
+[171574.235095] docker0: port 2(vethc39e6S) entered forwarding state
+[171589.280005] docker0: port 2(vethc39e6S) entered forwarding state
+[171609.884444] docker0: port 2(vethc39e6S) entered disabled state
+[171609.887012] device vethc39e6S left promiscuous mode
+[171609.887015] docker0: port 2(vethc39e6S) entered disabled state
+[171610.252848] device vethKMK3QH entered promiscuous mode
+[171610.253080] IPv6: ADDRCONF(NETDEV_UP): vethKMK3QH: link is not ready
+[171610.300811] IPv6: ADDRCONF(NETDEV_CHANGE): vethKMK3QH: link becomes ready
+[171610.300872] docker0: port 2(vethKMK3QH) entered forwarding state
+[171610.300881] docker0: port 2(vethKMK3QH) entered forwarding state
+[171616.968386] docker0: port 2(vethKMK3QH) entered disabled state
+[171616.968923] device vethKMK3QH left promiscuous mode
+[171616.968926] docker0: port 2(vethKMK3QH) entered disabled state
+[171618.836873] device veth0PB6yx entered promiscuous mode
+[171618.837004] IPv6: ADDRCONF(NETDEV_UP): veth0PB6yx: link is not ready
+[171618.887215] IPv6: ADDRCONF(NETDEV_CHANGE): veth0PB6yx: link becomes ready
+[171618.887274] docker0: port 2(veth0PB6yx) entered forwarding state
+[171618.887287] docker0: port 2(veth0PB6yx) entered forwarding state
+[171618.940345] docker0: port 2(veth0PB6yx) entered disabled state
+[171618.941384] device veth0PB6yx left promiscuous mode
+[171618.941389] docker0: port 2(veth0PB6yx) entered disabled state
+[171803.500628] device vethboCbdS entered promiscuous mode
+[171803.500711] IPv6: ADDRCONF(NETDEV_UP): vethboCbdS: link is not ready
+[171803.553984] IPv6: ADDRCONF(NETDEV_CHANGE): vethboCbdS: link becomes ready
+[171803.554037] docker0: port 2(vethboCbdS) entered forwarding state
+[171803.554047] docker0: port 2(vethboCbdS) entered forwarding state
+[171803.605491] type=1400 audit(1377896739.982:37): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=15398 profile="lxc-container-default" name="/sys/fs/cgroup/cpuset/" pid=15403 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[171803.605616] type=1400 audit(1377896739.982:38): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=15398 profile="lxc-container-default" name="/sys/fs/cgroup/cpuset/" pid=15403 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[171803.608835] type=1400 audit(1377896739.986:39): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=15398 profile="lxc-container-default" name="/sys/fs/cgroup/memory/" pid=15406 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[171803.608953] type=1400 audit(1377896739.986:40): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=15398 profile="lxc-container-default" name="/sys/fs/cgroup/memory/" pid=15406 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[171803.612317] type=1400 audit(1377896739.990:41): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=15398 profile="lxc-container-default" name="/sys/fs/cgroup/devices/" pid=15409 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[171803.612432] type=1400 audit(1377896739.990:42): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=15398 profile="lxc-container-default" name="/sys/fs/cgroup/devices/" pid=15409 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[171803.615541] type=1400 audit(1377896739.990:43): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=15398 profile="lxc-container-default" name="/sys/fs/cgroup/freezer/" pid=15412 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[171803.615637] type=1400 audit(1377896739.990:44): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=15398 profile="lxc-container-default" name="/sys/fs/cgroup/freezer/" pid=15412 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[171803.618692] type=1400 audit(1377896739.994:45): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=15398 profile="lxc-container-default" name="/sys/fs/cgroup/blkio/" pid=15415 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[171803.618788] type=1400 audit(1377896739.994:46): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=15398 profile="lxc-container-default" name="/sys/fs/cgroup/blkio/" pid=15415 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[171818.592007] docker0: port 2(vethboCbdS) entered forwarding state
+[171862.052488] docker0: port 2(vethboCbdS) entered disabled state
+[171862.053327] device vethboCbdS left promiscuous mode
+[171862.053335] docker0: port 2(vethboCbdS) entered disabled state
+[172198.236632] device vethgBSI6J entered promiscuous mode
+[172198.236748] IPv6: ADDRCONF(NETDEV_UP): vethgBSI6J: link is not ready
+[172198.265930] IPv6: ADDRCONF(NETDEV_CHANGE): vethgBSI6J: link becomes ready
+[172198.265985] docker0: port 2(vethgBSI6J) entered forwarding state
+[172198.266001] docker0: port 2(vethgBSI6J) entered forwarding state
+[172198.306214] audit_printk_skb: 12 callbacks suppressed
+[172198.306219] type=1400 audit(1377897134.682:51): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=15496 profile="lxc-container-default" name="/sys/fs/cgroup/cpuset/" pid=15501 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[172198.306330] type=1400 audit(1377897134.682:52): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=15496 profile="lxc-container-default" name="/sys/fs/cgroup/cpuset/" pid=15501 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[172198.309462] type=1400 audit(1377897134.686:53): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=15496 profile="lxc-container-default" name="/sys/fs/cgroup/memory/" pid=15504 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[172198.309556] type=1400 audit(1377897134.686:54): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=15496 profile="lxc-container-default" name="/sys/fs/cgroup/memory/" pid=15504 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[172198.312605] type=1400 audit(1377897134.690:55): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=15496 profile="lxc-container-default" name="/sys/fs/cgroup/devices/" pid=15507 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[172198.312710] type=1400 audit(1377897134.690:56): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=15496 profile="lxc-container-default" name="/sys/fs/cgroup/devices/" pid=15507 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[172198.315715] type=1400 audit(1377897134.690:57): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=15496 profile="lxc-container-default" name="/sys/fs/cgroup/freezer/" pid=15510 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[172198.315808] type=1400 audit(1377897134.690:58): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=15496 profile="lxc-container-default" name="/sys/fs/cgroup/freezer/" pid=15510 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[172198.318755] type=1400 audit(1377897134.694:59): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=15496 profile="lxc-container-default" name="/sys/fs/cgroup/blkio/" pid=15513 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[172198.318853] type=1400 audit(1377897134.694:60): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=15496 profile="lxc-container-default" name="/sys/fs/cgroup/blkio/" pid=15513 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[172213.280007] docker0: port 2(vethgBSI6J) entered forwarding state
+[172243.897161] docker0: port 2(vethgBSI6J) entered disabled state
+[172243.897671] device vethgBSI6J left promiscuous mode
+[172243.897675] docker0: port 2(vethgBSI6J) entered disabled state
+[177179.216660] device vethKM8T1Q entered promiscuous mode
+[177179.216769] IPv6: ADDRCONF(NETDEV_UP): vethKM8T1Q: link is not ready
+[177179.251053] IPv6: ADDRCONF(NETDEV_CHANGE): vethKM8T1Q: link becomes ready
+[177179.251105] docker0: port 2(vethKM8T1Q) entered forwarding state
+[177179.251115] docker0: port 2(vethKM8T1Q) entered forwarding state
+[177194.272007] docker0: port 2(vethKM8T1Q) entered forwarding state
+[177798.116504] docker0: port 2(vethKM8T1Q) entered disabled state
+[177798.142781] device vethKM8T1Q left promiscuous mode
+[177798.142785] docker0: port 2(vethKM8T1Q) entered disabled state
+[177887.680644] device vethWVYYKe entered promiscuous mode
+[177887.680719] IPv6: ADDRCONF(NETDEV_UP): vethWVYYKe: link is not ready
+[177887.715042] IPv6: ADDRCONF(NETDEV_CHANGE): vethWVYYKe: link becomes ready
+[177887.715098] docker0: port 2(vethWVYYKe) entered forwarding state
+[177887.715108] docker0: port 2(vethWVYYKe) entered forwarding state
+[177902.752010] docker0: port 2(vethWVYYKe) entered forwarding state
+[177934.772402] docker0: port 2(vethWVYYKe) entered disabled state
+[177934.773181] device vethWVYYKe left promiscuous mode
+[177934.773188] docker0: port 2(vethWVYYKe) entered disabled state
+[311181.534567] audit_printk_skb: 12 callbacks suppressed
+[311181.534573] type=1400 audit(1378036117.911:65): apparmor="DENIED" operation="capable" parent=1 profile="/usr/sbin/cupsd" pid=855 comm="cupsd" pid=855 comm="cupsd" capability=36  capname="block_suspend"
+[396833.221785] type=1400 audit(1378121769.597:66): apparmor="DENIED" operation="capable" parent=1 profile="/usr/sbin/cupsd" pid=855 comm="cupsd" pid=855 comm="cupsd" capability=36  capname="block_suspend"
+[515434.601855] device vethboHWqV entered promiscuous mode
+[515434.602006] IPv6: ADDRCONF(NETDEV_UP): vethboHWqV: link is not ready
+[515434.627484] IPv6: ADDRCONF(NETDEV_CHANGE): vethboHWqV: link becomes ready
+[515434.627543] docker0: port 2(vethboHWqV) entered forwarding state
+[515434.627552] docker0: port 2(vethboHWqV) entered forwarding state
+[515434.680342] docker0: port 2(vethboHWqV) entered disabled state
+[515434.680831] device vethboHWqV left promiscuous mode
+[515434.680839] docker0: port 2(vethboHWqV) entered disabled state
+[515434.720771] device veth24wfEX entered promiscuous mode
+[515434.720920] IPv6: ADDRCONF(NETDEV_UP): veth24wfEX: link is not ready
+[515434.975153] IPv6: ADDRCONF(NETDEV_CHANGE): veth24wfEX: link becomes ready
+[515434.975206] docker0: port 2(veth24wfEX) entered forwarding state
+[515434.975217] docker0: port 2(veth24wfEX) entered forwarding state
+[515450.016016] docker0: port 2(veth24wfEX) entered forwarding state
+[515480.000490] docker0: port 2(veth24wfEX) entered disabled state
+[515480.007611] device veth24wfEX left promiscuous mode
+[515480.007618] docker0: port 2(veth24wfEX) entered disabled state
+[515480.352626] device veth1kxtNy entered promiscuous mode
+[515480.352743] IPv6: ADDRCONF(NETDEV_UP): veth1kxtNy: link is not ready
+[515480.388939] IPv6: ADDRCONF(NETDEV_CHANGE): veth1kxtNy: link becomes ready
+[515480.389001] docker0: port 2(veth1kxtNy) entered forwarding state
+[515480.389013] docker0: port 2(veth1kxtNy) entered forwarding state
+[515482.448391] docker0: port 2(veth1kxtNy) entered disabled state
+[515482.449237] device veth1kxtNy left promiscuous mode
+[515482.449245] docker0: port 2(veth1kxtNy) entered disabled state
+[515482.468630] device veth7YIPBJ entered promiscuous mode
+[515482.468718] IPv6: ADDRCONF(NETDEV_UP): veth7YIPBJ: link is not ready
+[515482.739244] IPv6: ADDRCONF(NETDEV_CHANGE): veth7YIPBJ: link becomes ready
+[515482.739297] docker0: port 2(veth7YIPBJ) entered forwarding state
+[515482.739307] docker0: port 2(veth7YIPBJ) entered forwarding state
+[515497.760006] docker0: port 2(veth7YIPBJ) entered forwarding state
+[515581.784419] docker0: port 2(veth7YIPBJ) entered disabled state
+[515581.785257] device veth7YIPBJ left promiscuous mode
+[515581.785265] docker0: port 2(veth7YIPBJ) entered disabled state
+[515582.746943] device vethOlFEj1 entered promiscuous mode
+[515582.747364] IPv6: ADDRCONF(NETDEV_UP): vethOlFEj1: link is not ready
+[515582.773025] IPv6: ADDRCONF(NETDEV_CHANGE): vethOlFEj1: link becomes ready
+[515582.773077] docker0: port 2(vethOlFEj1) entered forwarding state
+[515582.773086] docker0: port 2(vethOlFEj1) entered forwarding state
+[515597.792007] docker0: port 2(vethOlFEj1) entered forwarding state
+[515629.004395] docker0: port 2(vethOlFEj1) entered disabled state
+[515629.005228] device vethOlFEj1 left promiscuous mode
+[515629.005232] docker0: port 2(vethOlFEj1) entered disabled state
+[515629.016746] device vethYGgHrg entered promiscuous mode
+[515629.016912] IPv6: ADDRCONF(NETDEV_UP): vethYGgHrg: link is not ready
+[515629.291394] IPv6: ADDRCONF(NETDEV_CHANGE): vethYGgHrg: link becomes ready
+[515629.291448] docker0: port 2(vethYGgHrg) entered forwarding state
+[515629.291458] docker0: port 2(vethYGgHrg) entered forwarding state
+[515629.723694] docker0: port 2(vethYGgHrg) entered disabled state
+[515629.724122] device vethYGgHrg left promiscuous mode
+[515629.724129] docker0: port 2(vethYGgHrg) entered disabled state
+[515629.944799] device vethARcpNa entered promiscuous mode
+[515629.945170] IPv6: ADDRCONF(NETDEV_UP): vethARcpNa: link is not ready
+[515630.015334] IPv6: ADDRCONF(NETDEV_CHANGE): vethARcpNa: link becomes ready
+[515630.015389] docker0: port 2(vethARcpNa) entered forwarding state
+[515630.015398] docker0: port 2(vethARcpNa) entered forwarding state
+[515630.056349] docker0: port 2(vethARcpNa) entered disabled state
+[515630.056707] device vethARcpNa left promiscuous mode
+[515630.056710] docker0: port 2(vethARcpNa) entered disabled state
+[517669.556853] device vethX2VjWs entered promiscuous mode
+[517669.556960] IPv6: ADDRCONF(NETDEV_UP): vethX2VjWs: link is not ready
+[517669.583747] IPv6: ADDRCONF(NETDEV_CHANGE): vethX2VjWs: link becomes ready
+[517669.583804] docker0: port 2(vethX2VjWs) entered forwarding state
+[517669.583814] docker0: port 2(vethX2VjWs) entered forwarding state
+[517684.608008] docker0: port 2(vethX2VjWs) entered forwarding state
+[596481.166410] device veth4mp9Hs entered promiscuous mode
+[596481.166670] IPv6: ADDRCONF(NETDEV_UP): veth4mp9Hs: link is not ready
+[596481.199453] IPv6: ADDRCONF(NETDEV_CHANGE): veth4mp9Hs: link becomes ready
+[596481.199515] docker0: port 3(veth4mp9Hs) entered forwarding state
+[596481.199526] docker0: port 3(veth4mp9Hs) entered forwarding state
+[596481.244316] docker0: port 3(veth4mp9Hs) entered disabled state
+[596481.244735] device veth4mp9Hs left promiscuous mode
+[596481.244740] docker0: port 3(veth4mp9Hs) entered disabled state
+[596481.273036] device vethzFebBA entered promiscuous mode
+[596481.273889] IPv6: ADDRCONF(NETDEV_UP): vethzFebBA: link is not ready
+[596481.539438] IPv6: ADDRCONF(NETDEV_CHANGE): vethzFebBA: link becomes ready
+[596481.539490] docker0: port 3(vethzFebBA) entered forwarding state
+[596481.539499] docker0: port 3(vethzFebBA) entered forwarding state
+[596496.544010] docker0: port 3(vethzFebBA) entered forwarding state
+[596521.512367] docker0: port 3(vethzFebBA) entered disabled state
+[596521.533015] device vethzFebBA left promiscuous mode
+[596521.533021] docker0: port 3(vethzFebBA) entered disabled state
+[596521.900950] device veth6QqFNP entered promiscuous mode
+[596521.901142] IPv6: ADDRCONF(NETDEV_UP): veth6QqFNP: link is not ready
+[596521.943483] IPv6: ADDRCONF(NETDEV_CHANGE): veth6QqFNP: link becomes ready
+[596521.943541] docker0: port 3(veth6QqFNP) entered forwarding state
+[596521.943551] docker0: port 3(veth6QqFNP) entered forwarding state
+[596531.842683] docker0: port 3(veth6QqFNP) entered disabled state
+[596531.843666] device veth6QqFNP left promiscuous mode
+[596531.843674] docker0: port 3(veth6QqFNP) entered disabled state
+[596549.310374] device vethL3HZ7s entered promiscuous mode
+[596549.310565] IPv6: ADDRCONF(NETDEV_UP): vethL3HZ7s: link is not ready
+[596549.363576] IPv6: ADDRCONF(NETDEV_CHANGE): vethL3HZ7s: link becomes ready
+[596549.363642] docker0: port 3(vethL3HZ7s) entered forwarding state
+[596549.363658] docker0: port 3(vethL3HZ7s) entered forwarding state
+[596549.432349] docker0: port 3(vethL3HZ7s) entered disabled state
+[596549.432796] device vethL3HZ7s left promiscuous mode
+[596549.432802] docker0: port 3(vethL3HZ7s) entered disabled state
+[596850.316116] device veth1ecrCN entered promiscuous mode
+[596850.316379] IPv6: ADDRCONF(NETDEV_UP): veth1ecrCN: link is not ready
+[596850.367540] IPv6: ADDRCONF(NETDEV_CHANGE): veth1ecrCN: link becomes ready
+[596850.367606] docker0: port 3(veth1ecrCN) entered forwarding state
+[596850.367616] docker0: port 3(veth1ecrCN) entered forwarding state
+[596850.424416] docker0: port 3(veth1ecrCN) entered disabled state
+[596850.424891] device veth1ecrCN left promiscuous mode
+[596850.424894] docker0: port 3(veth1ecrCN) entered disabled state
+[597010.948853] device vethiDJx6X entered promiscuous mode
+[597010.949005] IPv6: ADDRCONF(NETDEV_UP): vethiDJx6X: link is not ready
+[597010.979596] IPv6: ADDRCONF(NETDEV_CHANGE): vethiDJx6X: link becomes ready
+[597010.979658] docker0: port 3(vethiDJx6X) entered forwarding state
+[597010.979670] docker0: port 3(vethiDJx6X) entered forwarding state
+[597011.024740] docker0: port 3(vethiDJx6X) entered disabled state
+[597011.025120] device vethiDJx6X left promiscuous mode
+[597011.025126] docker0: port 3(vethiDJx6X) entered disabled state
+[597011.060621] device vethQvXNJ5 entered promiscuous mode
+[597011.060703] IPv6: ADDRCONF(NETDEV_UP): vethQvXNJ5: link is not ready
+[597011.323561] IPv6: ADDRCONF(NETDEV_CHANGE): vethQvXNJ5: link becomes ready
+[597011.323615] docker0: port 3(vethQvXNJ5) entered forwarding state
+[597011.323626] docker0: port 3(vethQvXNJ5) entered forwarding state
+[597026.336008] docker0: port 3(vethQvXNJ5) entered forwarding state
+[597092.206516] device vethW50Fyy entered promiscuous mode
+[597092.206693] IPv6: ADDRCONF(NETDEV_UP): vethW50Fyy: link is not ready
+[597092.239683] IPv6: ADDRCONF(NETDEV_CHANGE): vethW50Fyy: link becomes ready
+[597092.239754] docker0: port 4(vethW50Fyy) entered forwarding state
+[597092.239764] docker0: port 4(vethW50Fyy) entered forwarding state
+[597092.276367] docker0: port 4(vethW50Fyy) entered disabled state
+[597092.276784] device vethW50Fyy left promiscuous mode
+[597092.276788] docker0: port 4(vethW50Fyy) entered disabled state
+[597092.308917] device vethq6lQyF entered promiscuous mode
+[597092.309183] IPv6: ADDRCONF(NETDEV_UP): vethq6lQyF: link is not ready
+[597092.567715] IPv6: ADDRCONF(NETDEV_CHANGE): vethq6lQyF: link becomes ready
+[597092.567771] docker0: port 4(vethq6lQyF) entered forwarding state
+[597092.567787] docker0: port 4(vethq6lQyF) entered forwarding state
+[597092.636324] docker0: port 4(vethq6lQyF) entered disabled state
+[597092.636796] device vethq6lQyF left promiscuous mode
+[597092.636799] docker0: port 4(vethq6lQyF) entered disabled state
+[597092.776676] device vethpyONl5 entered promiscuous mode
+[597092.776772] IPv6: ADDRCONF(NETDEV_UP): vethpyONl5: link is not ready
+[597092.951713] IPv6: ADDRCONF(NETDEV_CHANGE): vethpyONl5: link becomes ready
+[597092.951771] docker0: port 4(vethpyONl5) entered forwarding state
+[597092.951781] docker0: port 4(vethpyONl5) entered forwarding state
+[597093.013481] docker0: port 4(vethpyONl5) entered disabled state
+[597093.013905] device vethpyONl5 left promiscuous mode
+[597093.013910] docker0: port 4(vethpyONl5) entered disabled state
+[597093.056645] device vethFNh5ls entered promiscuous mode
+[597093.056770] IPv6: ADDRCONF(NETDEV_UP): vethFNh5ls: link is not ready
+[597093.296267] IPv6: ADDRCONF(NETDEV_CHANGE): vethFNh5ls: link becomes ready
+[597093.296324] docker0: port 4(vethFNh5ls) entered forwarding state
+[597093.296335] docker0: port 4(vethFNh5ls) entered forwarding state
+[597099.839124] docker0: port 3(vethQvXNJ5) entered disabled state
+[597099.840025] device vethQvXNJ5 left promiscuous mode
+[597099.840033] docker0: port 3(vethQvXNJ5) entered disabled state
+[597108.320009] docker0: port 4(vethFNh5ls) entered forwarding state
+[597160.916545] docker0: port 4(vethFNh5ls) entered disabled state
+[597160.936034] device vethFNh5ls left promiscuous mode
+[597160.936037] docker0: port 4(vethFNh5ls) entered disabled state
+[597163.077502] device vethMZyqSi entered promiscuous mode
+[597163.077685] IPv6: ADDRCONF(NETDEV_UP): vethMZyqSi: link is not ready
+[597163.123799] IPv6: ADDRCONF(NETDEV_CHANGE): vethMZyqSi: link becomes ready
+[597163.123854] docker0: port 3(vethMZyqSi) entered forwarding state
+[597163.123863] docker0: port 3(vethMZyqSi) entered forwarding state
+[597178.144016] docker0: port 3(vethMZyqSi) entered forwarding state
+[597179.480425] docker0: port 3(vethMZyqSi) entered disabled state
+[597179.483311] device vethMZyqSi left promiscuous mode
+[597179.483314] docker0: port 3(vethMZyqSi) entered disabled state
+[597186.480828] device vethlvUcsL entered promiscuous mode
+[597186.481024] IPv6: ADDRCONF(NETDEV_UP): vethlvUcsL: link is not ready
+[597186.519932] IPv6: ADDRCONF(NETDEV_CHANGE): vethlvUcsL: link becomes ready
+[597186.520023] docker0: port 3(vethlvUcsL) entered forwarding state
+[597186.520034] docker0: port 3(vethlvUcsL) entered forwarding state
+[597186.568374] docker0: port 3(vethlvUcsL) entered disabled state
+[597186.568927] device vethlvUcsL left promiscuous mode
+[597186.568934] docker0: port 3(vethlvUcsL) entered disabled state
+[599414.693656] device veth1Jv899 entered promiscuous mode
+[599414.693750] IPv6: ADDRCONF(NETDEV_UP): veth1Jv899: link is not ready
+[599414.758643] IPv6: ADDRCONF(NETDEV_CHANGE): veth1Jv899: link becomes ready
+[599414.758707] docker0: port 3(veth1Jv899) entered forwarding state
+[599414.758718] docker0: port 3(veth1Jv899) entered forwarding state
+[599414.830498] type=1400 audit(1378324351.204:67): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=1119 profile="lxc-container-default" name="/sys/fs/cgroup/hugetlb/" pid=1125 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[599414.830625] type=1400 audit(1378324351.204:68): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=1119 profile="lxc-container-default" name="/sys/fs/cgroup/hugetlb/" pid=1125 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[599414.833944] type=1400 audit(1378324351.208:69): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=1119 profile="lxc-container-default" name="/sys/fs/cgroup/perf_event/" pid=1128 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[599414.834058] type=1400 audit(1378324351.208:70): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=1119 profile="lxc-container-default" name="/sys/fs/cgroup/perf_event/" pid=1128 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[599414.837213] type=1400 audit(1378324351.212:71): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=1119 profile="lxc-container-default" name="/sys/fs/cgroup/blkio/" pid=1131 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[599414.837329] type=1400 audit(1378324351.212:72): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=1119 profile="lxc-container-default" name="/sys/fs/cgroup/blkio/" pid=1131 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[599414.840558] type=1400 audit(1378324351.216:73): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=1119 profile="lxc-container-default" name="/sys/fs/cgroup/freezer/" pid=1134 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[599414.840713] type=1400 audit(1378324351.216:74): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=1119 profile="lxc-container-default" name="/sys/fs/cgroup/freezer/" pid=1134 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[599414.843769] type=1400 audit(1378324351.216:75): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=1119 profile="lxc-container-default" name="/sys/fs/cgroup/devices/" pid=1137 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[599414.843907] type=1400 audit(1378324351.216:76): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=1119 profile="lxc-container-default" name="/sys/fs/cgroup/devices/" pid=1137 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[599429.792006] docker0: port 3(veth1Jv899) entered forwarding state
+[599515.803245] docker0: port 3(veth1Jv899) entered disabled state
+[599515.803882] device veth1Jv899 left promiscuous mode
+[599515.803885] docker0: port 3(veth1Jv899) entered disabled state
+[599520.172676] device vethnn0PD0 entered promiscuous mode
+[599520.172784] IPv6: ADDRCONF(NETDEV_UP): vethnn0PD0: link is not ready
+[599520.206684] IPv6: ADDRCONF(NETDEV_CHANGE): vethnn0PD0: link becomes ready
+[599520.206742] docker0: port 3(vethnn0PD0) entered forwarding state
+[599520.206753] docker0: port 3(vethnn0PD0) entered forwarding state
+[599520.248105] audit_printk_skb: 24 callbacks suppressed
+[599520.248109] type=1400 audit(1378324456.624:85): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=1232 profile="lxc-container-default" name="/sys/fs/cgroup/hugetlb/" pid=1240 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[599520.248222] type=1400 audit(1378324456.624:86): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=1232 profile="lxc-container-default" name="/sys/fs/cgroup/hugetlb/" pid=1240 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[599520.251112] type=1400 audit(1378324456.624:87): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=1232 profile="lxc-container-default" name="/sys/fs/cgroup/perf_event/" pid=1243 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[599520.251210] type=1400 audit(1378324456.624:88): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=1232 profile="lxc-container-default" name="/sys/fs/cgroup/perf_event/" pid=1243 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[599520.254476] type=1400 audit(1378324456.628:89): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=1232 profile="lxc-container-default" name="/sys/fs/cgroup/blkio/" pid=1247 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[599520.254603] type=1400 audit(1378324456.628:90): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=1232 profile="lxc-container-default" name="/sys/fs/cgroup/blkio/" pid=1247 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[599520.257599] type=1400 audit(1378324456.632:91): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=1232 profile="lxc-container-default" name="/sys/fs/cgroup/freezer/" pid=1250 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[599520.257700] type=1400 audit(1378324456.632:92): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=1232 profile="lxc-container-default" name="/sys/fs/cgroup/freezer/" pid=1250 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[599520.260659] type=1400 audit(1378324456.636:93): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=1232 profile="lxc-container-default" name="/sys/fs/cgroup/devices/" pid=1253 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[599520.260774] type=1400 audit(1378324456.636:94): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=1232 profile="lxc-container-default" name="/sys/fs/cgroup/devices/" pid=1253 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[599535.076495] docker0: port 3(vethnn0PD0) entered disabled state
+[599535.077439] device vethnn0PD0 left promiscuous mode
+[599535.077443] docker0: port 3(vethnn0PD0) entered disabled state
+[599572.596635] device vethngJK9D entered promiscuous mode
+[599572.596729] IPv6: ADDRCONF(NETDEV_UP): vethngJK9D: link is not ready
+[599572.627897] IPv6: ADDRCONF(NETDEV_CHANGE): vethngJK9D: link becomes ready
+[599572.627966] docker0: port 3(vethngJK9D) entered forwarding state
+[599572.627977] docker0: port 3(vethngJK9D) entered forwarding state
+[599572.684918] docker0: port 3(vethngJK9D) entered disabled state
+[599572.685329] device vethngJK9D left promiscuous mode
+[599572.685336] docker0: port 3(vethngJK9D) entered disabled state
+[599572.732884] device veths2zssG entered promiscuous mode
+[599572.733854] IPv6: ADDRCONF(NETDEV_UP): veths2zssG: link is not ready
+[599572.987867] IPv6: ADDRCONF(NETDEV_CHANGE): veths2zssG: link becomes ready
+[599572.987921] docker0: port 3(veths2zssG) entered forwarding state
+[599572.987938] docker0: port 3(veths2zssG) entered forwarding state
+[599573.029500] docker0: port 3(veths2zssG) entered disabled state
+[599573.030034] device veths2zssG left promiscuous mode
+[599573.030040] docker0: port 3(veths2zssG) entered disabled state
+[599573.194087] device vethX9y4xe entered promiscuous mode
+[599573.194298] IPv6: ADDRCONF(NETDEV_UP): vethX9y4xe: link is not ready
+[599573.228042] IPv6: ADDRCONF(NETDEV_CHANGE): vethX9y4xe: link becomes ready
+[599573.228097] docker0: port 3(vethX9y4xe) entered forwarding state
+[599573.228106] docker0: port 3(vethX9y4xe) entered forwarding state
+[599573.268798] docker0: port 3(vethX9y4xe) entered disabled state
+[599573.269211] device vethX9y4xe left promiscuous mode
+[599573.269216] docker0: port 3(vethX9y4xe) entered disabled state
+[599573.309176] device vethAHvRHk entered promiscuous mode
+[599573.309359] IPv6: ADDRCONF(NETDEV_UP): vethAHvRHk: link is not ready
+[599573.548321] IPv6: ADDRCONF(NETDEV_CHANGE): vethAHvRHk: link becomes ready
+[599573.548381] docker0: port 3(vethAHvRHk) entered forwarding state
+[599573.548392] docker0: port 3(vethAHvRHk) entered forwarding state
+[599588.576009] docker0: port 3(vethAHvRHk) entered forwarding state
+[599635.524389] docker0: port 3(vethAHvRHk) entered disabled state
+[599635.525050] device vethAHvRHk left promiscuous mode
+[599635.525053] docker0: port 3(vethAHvRHk) entered disabled state
+[599635.896912] device vethrY3GAs entered promiscuous mode
+[599635.897230] IPv6: ADDRCONF(NETDEV_UP): vethrY3GAs: link is not ready
+[599635.932858] IPv6: ADDRCONF(NETDEV_CHANGE): vethrY3GAs: link becomes ready
+[599635.932917] docker0: port 3(vethrY3GAs) entered forwarding state
+[599635.932926] docker0: port 3(vethrY3GAs) entered forwarding state
+[599650.976018] docker0: port 3(vethrY3GAs) entered forwarding state
+[599652.456657] docker0: port 3(vethrY3GAs) entered disabled state
+[599652.458783] device vethrY3GAs left promiscuous mode
+[599652.458786] docker0: port 3(vethrY3GAs) entered disabled state
+[599668.320893] device vethEvmLSh entered promiscuous mode
+[599668.321140] IPv6: ADDRCONF(NETDEV_UP): vethEvmLSh: link is not ready
+[599668.364104] IPv6: ADDRCONF(NETDEV_CHANGE): vethEvmLSh: link becomes ready
+[599668.364172] docker0: port 3(vethEvmLSh) entered forwarding state
+[599668.364184] docker0: port 3(vethEvmLSh) entered forwarding state
+[599668.412394] docker0: port 3(vethEvmLSh) entered disabled state
+[599668.412864] device vethEvmLSh left promiscuous mode
+[599668.412867] docker0: port 3(vethEvmLSh) entered disabled state
+[599772.802773] device vethjDkMVV entered promiscuous mode
+[599772.802853] IPv6: ADDRCONF(NETDEV_UP): vethjDkMVV: link is not ready
+[599772.850930] IPv6: ADDRCONF(NETDEV_CHANGE): vethjDkMVV: link becomes ready
+[599772.850994] docker0: port 3(vethjDkMVV) entered forwarding state
+[599772.851006] docker0: port 3(vethjDkMVV) entered forwarding state
+[599772.892757] audit_printk_skb: 24 callbacks suppressed
+[599772.892761] type=1400 audit(1378324709.268:103): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=4597 profile="lxc-container-default" name="/sys/fs/cgroup/hugetlb/" pid=4603 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[599772.892899] type=1400 audit(1378324709.268:104): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=4597 profile="lxc-container-default" name="/sys/fs/cgroup/hugetlb/" pid=4603 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[599772.896281] type=1400 audit(1378324709.272:105): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=4597 profile="lxc-container-default" name="/sys/fs/cgroup/perf_event/" pid=4606 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[599772.896394] type=1400 audit(1378324709.272:106): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=4597 profile="lxc-container-default" name="/sys/fs/cgroup/perf_event/" pid=4606 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[599772.899555] type=1400 audit(1378324709.272:107): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=4597 profile="lxc-container-default" name="/sys/fs/cgroup/blkio/" pid=4609 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[599772.899653] type=1400 audit(1378324709.272:108): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=4597 profile="lxc-container-default" name="/sys/fs/cgroup/blkio/" pid=4609 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[599772.902795] type=1400 audit(1378324709.276:109): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=4597 profile="lxc-container-default" name="/sys/fs/cgroup/freezer/" pid=4612 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[599772.902896] type=1400 audit(1378324709.276:110): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=4597 profile="lxc-container-default" name="/sys/fs/cgroup/freezer/" pid=4612 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[599772.906129] type=1400 audit(1378324709.280:111): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=4597 profile="lxc-container-default" name="/sys/fs/cgroup/devices/" pid=4615 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[599772.906249] type=1400 audit(1378324709.280:112): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=4597 profile="lxc-container-default" name="/sys/fs/cgroup/devices/" pid=4615 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[599781.480497] docker0: port 3(vethjDkMVV) entered disabled state
+[599781.481379] device vethjDkMVV left promiscuous mode
+[599781.481386] docker0: port 3(vethjDkMVV) entered disabled state
+[599791.756693] device vethc1VSxG entered promiscuous mode
+[599791.756779] IPv6: ADDRCONF(NETDEV_UP): vethc1VSxG: link is not ready
+[599791.792249] IPv6: ADDRCONF(NETDEV_CHANGE): vethc1VSxG: link becomes ready
+[599791.792317] docker0: port 3(vethc1VSxG) entered forwarding state
+[599791.792326] docker0: port 3(vethc1VSxG) entered forwarding state
+[599791.834015] audit_printk_skb: 24 callbacks suppressed
+[599791.834019] type=1400 audit(1378324728.208:121): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=4700 profile="lxc-container-default" name="/sys/fs/cgroup/hugetlb/" pid=4706 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[599791.834155] type=1400 audit(1378324728.208:122): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=4700 profile="lxc-container-default" name="/sys/fs/cgroup/hugetlb/" pid=4706 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[599791.837462] type=1400 audit(1378324728.212:123): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=4700 profile="lxc-container-default" name="/sys/fs/cgroup/perf_event/" pid=4709 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[599791.837587] type=1400 audit(1378324728.212:124): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=4700 profile="lxc-container-default" name="/sys/fs/cgroup/perf_event/" pid=4709 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[599791.841037] type=1400 audit(1378324728.216:125): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=4700 profile="lxc-container-default" name="/sys/fs/cgroup/blkio/" pid=4712 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[599791.841154] type=1400 audit(1378324728.216:126): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=4700 profile="lxc-container-default" name="/sys/fs/cgroup/blkio/" pid=4712 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[599791.844154] type=1400 audit(1378324728.220:127): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=4700 profile="lxc-container-default" name="/sys/fs/cgroup/freezer/" pid=4715 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[599791.844264] type=1400 audit(1378324728.220:128): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=4700 profile="lxc-container-default" name="/sys/fs/cgroup/freezer/" pid=4715 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[599791.847479] type=1400 audit(1378324728.220:129): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=4700 profile="lxc-container-default" name="/sys/fs/cgroup/devices/" pid=4718 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[599791.847588] type=1400 audit(1378324728.220:130): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=4700 profile="lxc-container-default" name="/sys/fs/cgroup/devices/" pid=4718 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[599806.816006] docker0: port 3(vethc1VSxG) entered forwarding state
+[599808.812551] docker0: port 3(vethc1VSxG) entered disabled state
+[599808.813491] device vethc1VSxG left promiscuous mode
+[599808.813494] docker0: port 3(vethc1VSxG) entered disabled state
+[600194.870587] device vethGnJ63i entered promiscuous mode
+[600194.870808] IPv6: ADDRCONF(NETDEV_UP): vethGnJ63i: link is not ready
+[600194.903966] IPv6: ADDRCONF(NETDEV_CHANGE): vethGnJ63i: link becomes ready
+[600194.904051] docker0: port 3(vethGnJ63i) entered forwarding state
+[600194.904062] docker0: port 3(vethGnJ63i) entered forwarding state
+[600209.952009] docker0: port 3(vethGnJ63i) entered forwarding state
+[600212.672600] docker0: port 3(vethGnJ63i) entered disabled state
+[600212.693721] device vethGnJ63i left promiscuous mode
+[600212.693730] docker0: port 3(vethGnJ63i) entered disabled state
+[600214.566712] device vethLciZTU entered promiscuous mode
+[600214.566906] IPv6: ADDRCONF(NETDEV_UP): vethLciZTU: link is not ready
+[600214.611961] IPv6: ADDRCONF(NETDEV_CHANGE): vethLciZTU: link becomes ready
+[600214.612041] docker0: port 3(vethLciZTU) entered forwarding state
+[600214.612057] docker0: port 3(vethLciZTU) entered forwarding state
+[600220.512423] docker0: port 3(vethLciZTU) entered disabled state
+[600220.519348] device vethLciZTU left promiscuous mode
+[600220.519356] docker0: port 3(vethLciZTU) entered disabled state
+[600222.608904] device vethpX6D6j entered promiscuous mode
+[600222.609161] IPv6: ADDRCONF(NETDEV_UP): vethpX6D6j: link is not ready
+[600222.644131] IPv6: ADDRCONF(NETDEV_CHANGE): vethpX6D6j: link becomes ready
+[600222.644189] docker0: port 3(vethpX6D6j) entered forwarding state
+[600222.644201] docker0: port 3(vethpX6D6j) entered forwarding state
+[600222.716420] docker0: port 3(vethpX6D6j) entered disabled state
+[600222.716854] device vethpX6D6j left promiscuous mode
+[600222.716857] docker0: port 3(vethpX6D6j) entered disabled state
+[600267.352672] device vethZAqc3R entered promiscuous mode
+[600267.352767] IPv6: ADDRCONF(NETDEV_UP): vethZAqc3R: link is not ready
+[600267.387035] IPv6: ADDRCONF(NETDEV_CHANGE): vethZAqc3R: link becomes ready
+[600267.387102] docker0: port 3(vethZAqc3R) entered forwarding state
+[600267.387112] docker0: port 3(vethZAqc3R) entered forwarding state
+[600267.446796] audit_printk_skb: 24 callbacks suppressed
+[600267.446800] type=1400 audit(1378325203.820:139): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=7732 profile="lxc-container-default" name="/sys/fs/cgroup/hugetlb/" pid=7738 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[600267.446913] type=1400 audit(1378325203.820:140): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=7732 profile="lxc-container-default" name="/sys/fs/cgroup/hugetlb/" pid=7738 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[600267.449999] type=1400 audit(1378325203.824:141): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=7732 profile="lxc-container-default" name="/sys/fs/cgroup/perf_event/" pid=7741 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[600267.450093] type=1400 audit(1378325203.824:142): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=7732 profile="lxc-container-default" name="/sys/fs/cgroup/perf_event/" pid=7741 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[600267.453300] type=1400 audit(1378325203.828:143): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=7732 profile="lxc-container-default" name="/sys/fs/cgroup/blkio/" pid=7744 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[600267.453418] type=1400 audit(1378325203.828:144): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=7732 profile="lxc-container-default" name="/sys/fs/cgroup/blkio/" pid=7744 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[600267.456670] type=1400 audit(1378325203.832:145): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=7732 profile="lxc-container-default" name="/sys/fs/cgroup/freezer/" pid=7747 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[600267.456767] type=1400 audit(1378325203.832:146): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=7732 profile="lxc-container-default" name="/sys/fs/cgroup/freezer/" pid=7747 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[600267.459879] type=1400 audit(1378325203.832:147): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=7732 profile="lxc-container-default" name="/sys/fs/cgroup/devices/" pid=7750 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[600267.460029] type=1400 audit(1378325203.836:148): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=7732 profile="lxc-container-default" name="/sys/fs/cgroup/devices/" pid=7750 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[600282.400006] docker0: port 3(vethZAqc3R) entered forwarding state
+[600884.296486] docker0: port 3(vethZAqc3R) entered disabled state
+[600884.297405] device vethZAqc3R left promiscuous mode
+[600884.297409] docker0: port 3(vethZAqc3R) entered disabled state
+[600886.952667] device veth3NXI3M entered promiscuous mode
+[600886.952754] IPv6: ADDRCONF(NETDEV_UP): veth3NXI3M: link is not ready
+[600886.986936] IPv6: ADDRCONF(NETDEV_CHANGE): veth3NXI3M: link becomes ready
+[600886.986999] docker0: port 3(veth3NXI3M) entered forwarding state
+[600886.987010] docker0: port 3(veth3NXI3M) entered forwarding state
+[600887.028304] audit_printk_skb: 24 callbacks suppressed
+[600887.028308] type=1400 audit(1378325823.404:157): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=7841 profile="lxc-container-default" name="/sys/fs/cgroup/hugetlb/" pid=7847 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[600887.028431] type=1400 audit(1378325823.404:158): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=7841 profile="lxc-container-default" name="/sys/fs/cgroup/hugetlb/" pid=7847 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[600887.031778] type=1400 audit(1378325823.404:159): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=7841 profile="lxc-container-default" name="/sys/fs/cgroup/perf_event/" pid=7850 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[600887.031896] type=1400 audit(1378325823.404:160): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=7841 profile="lxc-container-default" name="/sys/fs/cgroup/perf_event/" pid=7850 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[600887.035082] type=1400 audit(1378325823.408:161): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=7841 profile="lxc-container-default" name="/sys/fs/cgroup/blkio/" pid=7853 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[600887.035217] type=1400 audit(1378325823.408:162): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=7841 profile="lxc-container-default" name="/sys/fs/cgroup/blkio/" pid=7853 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[600887.038227] type=1400 audit(1378325823.412:163): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=7841 profile="lxc-container-default" name="/sys/fs/cgroup/freezer/" pid=7856 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[600887.038375] type=1400 audit(1378325823.412:164): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=7841 profile="lxc-container-default" name="/sys/fs/cgroup/freezer/" pid=7856 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[600887.041398] type=1400 audit(1378325823.416:165): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=7841 profile="lxc-container-default" name="/sys/fs/cgroup/devices/" pid=7859 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[600887.041527] type=1400 audit(1378325823.416:166): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=7841 profile="lxc-container-default" name="/sys/fs/cgroup/devices/" pid=7859 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[600902.016010] docker0: port 3(veth3NXI3M) entered forwarding state
+[687211.284385] device vethxYYmku entered promiscuous mode
+[687211.284496] IPv6: ADDRCONF(NETDEV_UP): vethxYYmku: link is not ready
+[687211.334959] IPv6: ADDRCONF(NETDEV_CHANGE): vethxYYmku: link becomes ready
+[687211.335020] docker0: port 4(vethxYYmku) entered forwarding state
+[687211.335031] docker0: port 4(vethxYYmku) entered forwarding state
+[687211.393294] audit_printk_skb: 24 callbacks suppressed
+[687211.393299] type=1400 audit(1378412147.770:175): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=8678 profile="lxc-container-default" name="/sys/fs/cgroup/hugetlb/" pid=8684 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[687211.393409] type=1400 audit(1378412147.770:176): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=8678 profile="lxc-container-default" name="/sys/fs/cgroup/hugetlb/" pid=8684 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[687211.396869] type=1400 audit(1378412147.774:177): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=8678 profile="lxc-container-default" name="/sys/fs/cgroup/perf_event/" pid=8687 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[687211.396984] type=1400 audit(1378412147.774:178): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=8678 profile="lxc-container-default" name="/sys/fs/cgroup/perf_event/" pid=8687 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[687211.400049] type=1400 audit(1378412147.778:179): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=8678 profile="lxc-container-default" name="/sys/fs/cgroup/blkio/" pid=8690 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[687211.400154] type=1400 audit(1378412147.778:180): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=8678 profile="lxc-container-default" name="/sys/fs/cgroup/blkio/" pid=8690 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[687211.403301] type=1400 audit(1378412147.778:181): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=8678 profile="lxc-container-default" name="/sys/fs/cgroup/freezer/" pid=8693 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[687211.403416] type=1400 audit(1378412147.778:182): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=8678 profile="lxc-container-default" name="/sys/fs/cgroup/freezer/" pid=8693 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[687211.406396] type=1400 audit(1378412147.782:183): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=8678 profile="lxc-container-default" name="/sys/fs/cgroup/devices/" pid=8696 comm="mount" fstype="cgroup" srcname="cgroup" flags="rw"
+[687211.406501] type=1400 audit(1378412147.782:184): apparmor="DENIED" operation="mount" info="failed type match" error=-13 parent=8678 profile="lxc-container-default" name="/sys/fs/cgroup/devices/" pid=8696 comm="mount" fstype="cgroup" srcname="cgroup" flags="ro"
+[687226.336008] docker0: port 4(vethxYYmku) entered forwarding state
